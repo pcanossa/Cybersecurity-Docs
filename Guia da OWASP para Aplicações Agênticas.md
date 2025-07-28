@@ -149,8 +149,6 @@ Uma vez em produção, a vigilância deve ser contínua.
 
 *   **Para o Desenvolvedor e Engenheiro Sênior:** O capítulo 3 ("Agentic Developer Guidelines") é uma leitura obrigatória. Aplique as práticas de codificação segura, HITL e sandboxing em seus projetos. Você está na linha de frente da implementação.
 
-
-``` 
 **Para o Arquiteto de Segurança e Líder Técnico:** Sua visão estratégica é fundamental. Use o guia para definir as políticas de segurança da sua organização para IA, escolher as arquiteturas corretas e defender o investimento em ferramentas de monitoramento e proteção em tempo de execução.
 
 
