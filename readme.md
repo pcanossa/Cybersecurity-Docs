@@ -12,24 +12,6 @@ Nossa missão é desmistificar conceitos complexos e fornecer guias práticos, a
 
 Para manter a organização, os artigos estão divididos em diretórios temáticos. A estrutura inicial sugerida é:
 
-Claro, aqui está o texto completo em Markdown para o seu arquivo README.md, pronto para ser copiado e colado.
-
-Markdown
-
-# 🛡️ Cybersecurity-Docs
-
-Bem-vindo(a) ao **Cybersecurity-Docs**! Este é um repositório open-source dedicado a centralizar, organizar e compartilhar conhecimento de alta qualidade sobre Tecnologia da Informação e Cibersegurança.
-
-O objetivo é criar uma base de conhecimento robusta e acessível para estudantes, profissionais em transição de carreira e especialistas que buscam aprofundar seus conhecimentos.
-
-## 🎯 Objetivo
-
-Nossa missão é desmistificar conceitos complexos e fornecer guias práticos, artigos e tutoriais sobre as mais diversas áreas de TI e Segurança Cibernética, tudo em português. Queremos ser a fonte de consulta que gostaríamos de ter tido quando começamos nossas jornadas.
-
-## 📂 Estrutura do Repositório
-
-Para manter a organização, os artigos estão divididos em diretórios temáticos. A estrutura inicial sugerida é:
-
 /
 ├── 01-Conceitos-Fundamentais/   # Redes, Sistemas Operacionais, Criptografia...
 ├── 02-Seguranca-Ofensiva/        # Pentest, Red Teaming, Análise de Malware...
