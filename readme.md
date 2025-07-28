@@ -12,14 +12,20 @@ Nossa missão é desmistificar conceitos complexos e fornecer guias práticos, a
 
 Para manter a organização, os artigos estão divididos em diretórios temáticos. A estrutura inicial sugerida é:
 
-/
-├── 01-Conceitos-Fundamentais/   # Redes, Sistemas Operacionais, Criptografia...
-├── 02-Seguranca-Ofensiva/        # Pentest, Red Teaming, Análise de Malware...
-├── 03-Seguranca-Defensiva/       # Blue Teaming, SOC, Análise de Logs, SIEM...
-├── 04-GRC-e-Normas/              # Governança, Risco, Compliance, LGPD, ISO 27001...
-├── 05-Seguranca-em-Nuvem/        # AWS, Azure, GCP, SecDevOps...
-├── 06-Desenvolvimento-Seguro/    # OWASP Top 10, SAST, DAST...
-└── 07-Inteligencia-Artificial/   # Segurança em IA, IA para Segurança...
+- **01-Conceitos-Fundamentais/**
+  - *Redes, Sistemas Operacionais, Criptografia...*
+- **02-Seguranca-Ofensiva/**
+  - *Pentest, Red Teaming, Análise de Malware...*
+- **03-Seguranca-Defensiva/**
+  - *Blue Teaming, SOC, Análise de Logs, SIEM...*
+- **04-GRC-e-Normas/**
+  - *Governança, Risco, Compliance, LGPD, ISO 27001...*
+- **05-Seguranca-em-Nuvem/**
+  - *AWS, Azure, GCP, SecDevOps...*
+- **06-Desenvolvimento-Seguro/**
+  - *OWASP Top 10, SAST, DAST...*
+- **07-Inteligencia-Artificial/**
+  - *Segurança em IA, IA para Segurança...*
 
 *Sinta-se à vontade para sugerir novas categorias!*
 
