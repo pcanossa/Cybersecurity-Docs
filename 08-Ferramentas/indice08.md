@@ -11,7 +11,7 @@
   * [IP Void](https://ipvoid.com)
   * https://www.merriam-webster.com/dictionary/void(https://urlvoid.com)
 
-- **FILE | HASH | ANALYSIS | SANDBOX**
+- **FILE & HASH & ANALYSIS & SANDBOX**
   * [FileSec](https://filesec.io/#)
   * [LOLBAS](https://lolbas-project.github.io/)
   * [GTFOBins](https://gtfobins.github.io/)
@@ -34,7 +34,7 @@
     * **PowerShell:** `Get-FileHash -Path C:\path\to\file.txt -Algorithm MD5`
     * **Terminal (Mac/Linux):** `shasum -a 256 filename`
 
-- **REVERSE ENGINEERING | DEBUGGING**
+- **REVERSE ENGINEERING & DEBUGGING**
   * [PeStudio](https://www.winitor.com/)
   * [CFF Explorer](https://ntcore.com/?page_id=388)
   * [DocGuard](https://github.com/DocGuard/DocGuard)
@@ -44,14 +44,14 @@
   * [Radare2/Cutter](https://cutter.re/)
   * [More RE](https://github.com/wtsxDev/reverse-engineering)
 
-- **SYSTEM MONITORING | MALWARE BEHAVIOR**
+- **SYSTEM MONITORING & MALWARE BEHAVIOR**
   * [Process Hacker](https://processhacker.sourceforge.io/)
   * [Process Monitor](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon)
   * [ProcDot](http://www.procdot.com/)
   * [Autoruns](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns)
   * [TcpView](https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview)
 
-- **REVERSE ENGINEERING | DEBUGGING | FIDDLER**
+- **REVERSE ENGINEERING & DEBUGGING & FIDDLER**
   * [Fiddler](https://www.telerik.com/fiddler)
 
 - **MALWARE SOURCES & THREAT INTEL**
