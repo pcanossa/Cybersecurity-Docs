@@ -31,8 +31,8 @@
 - **FILE HASH TOOLS**
   * [HashTools (Windows)](https://www.binaryfortress.com/HashTools/)
   * [QuickHash (Mac)](https://www.quickhash-gui.org/)
-  * **PowerShell:** `Get-FileHash -Path C:\path\to\file.txt -Algorithm MD5`
-  * **Terminal (Mac/Linux):** `shasum -a 256 filename`
+    * **PowerShell:** `Get-FileHash -Path C:\path\to\file.txt -Algorithm MD5`
+    * **Terminal (Mac/Linux):** `shasum -a 256 filename`
 
 - **REVERSE ENGINEERING | DEBUGGING**
   * [PeStudio](https://www.winitor.com/)
