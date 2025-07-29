@@ -24,7 +24,7 @@ Para manter a organização, os artigos estão divididos em diretórios temátic
   - *AWS, Azure, GCP, SecDevOps...*
 - **06-Desenvolvimento-Seguro/**
   - *OWASP Top 10, SAST, DAST...*
-- **07-Inteligencia-Artificial/**
+- **[07-Inteligencia-Artificial/](/07-Inteligencia-Artificial/indice07.md)**
   - *Segurança em IA, IA para Segurança...*
 
 *Sinta-se à vontade para sugerir novas categorias!*
