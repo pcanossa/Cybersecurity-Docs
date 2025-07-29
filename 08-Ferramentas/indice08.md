@@ -9,7 +9,6 @@
   * [Palo Alto URL Filter](https://urlfiltering.paloaltonetworks.com/)
   * [Symantec Filter](https://sitereview.bluecoat.com/)
   * [IP Void](https://ipvoid.com)
-  * https://www.merriam-webster.com/dictionary/void(https://urlvoid.com)
 
 - **FILE & HASH & ANALYSIS & SANDBOX**
   * [FileSec](https://filesec.io/#)
