@@ -26,6 +26,8 @@ Para manter a organização, os artigos estão divididos em diretórios temátic
   - *OWASP Top 10, SAST, DAST...*
 - **[07-Inteligencia-Artificial/](/07-Inteligencia-Artificial/indice07.md)**
   - *Segurança em IA, IA para Segurança...*
+- **[08-Ferramentas/](./08-Ferramentas/indice08.md)**
+  - *VirusTotal, Cisco Talos, Ghidra...*  
 
 *Sinta-se à vontade para sugerir novas categorias!*
 
