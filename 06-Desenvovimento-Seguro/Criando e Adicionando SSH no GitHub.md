@@ -1,5 +1,7 @@
 # Criando e Adicionando SSH no GitHub
 
+**Publicado em: 30 de julho de 2025**
+
 **Passo 1: Verifique se Você Já Tem uma Chave SSH 🔑**
 
 
