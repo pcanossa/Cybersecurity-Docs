@@ -22,7 +22,7 @@ Para manter a organização, os artigos estão divididos em diretórios temátic
   - *Governança, Risco, Compliance, LGPD, ISO 27001...*
 - **05-Seguranca-em-Nuvem/**
   - *AWS, Azure, GCP, SecDevOps...*
-- **06-Desenvolvimento-Seguro/**
+- **[06-Desenvolvimento-Seguro/](/06-Desenvovimento-Seguro/)**
   - *OWASP Top 10, SAST, DAST...*
 - **[07-Inteligencia-Artificial/](/07-Inteligencia-Artificial/indice07.md)**
   - *Segurança em IA, IA para Segurança...*
