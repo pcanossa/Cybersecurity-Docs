@@ -61,3 +61,6 @@
   * [URLHaus](https://urlhaus.abuse.ch/)
   * [ThreatFox](https://threatfox.abuse.ch/)
   * [YARAify](https://yaraify.abuse.ch/)
+
+- **100 FERRAMENTAS OSINT - DOCUMENT**
+  * [Document for OSINT  Excellence](./FerramentasOSINT.pdf)
