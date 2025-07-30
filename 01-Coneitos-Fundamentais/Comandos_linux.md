@@ -1,5 +1,7 @@
 # Guia Essencial de Comandos Linux (Ubuntu/Debian): Gerenciamento e Segurança
 
+**Publicado em: 29 de julho de 2025**
+
 **Público-alvo:** Profissionais de TI, de estudantes a administradores de sistemas.
 **Objetivo:** Fornecer uma referência prática e didática para as operações mais comuns no terminal, com ênfase em boas práticas e segurança.
 
