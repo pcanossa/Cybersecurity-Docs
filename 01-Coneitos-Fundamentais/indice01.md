@@ -9,3 +9,6 @@
 - **MacOS**
 
 - **Exploits**
+
+- **Engenharia Social**
+  - [Shoulder Surfing e Dumpster Diving](./shoulder_surfing_e_dumpster_diving.md)
