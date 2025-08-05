@@ -7,8 +7,8 @@
 Ambos o **Surf de Ombro** e o **Mergulho no Lixo** são táticas clássicas de Engenharia Social. Em vez de explorar falhas em software ou hardware, esses ataques exploram o comportamento humano, seja por desatenção, curiosidade, confiança ou falta de descarte adequado de informações. Eles visam obter dados confidenciais diretamente da fonte humana.
 
 ## 1- Surf no Ombro (Shoulder Surfing)
-- ***O que é?:** O Surf de Ombro é um ataque onde um invasor fisicamente observa a vítima para obter informações sensíveis. Isso pode ser feito olhando por cima do ombro enquanto a pessoa digita um PIN em um caixa eletrônico, visualiza um código de acesso no celular, ou acessa informações confidenciais em um notebook em local público.
-- ***Para que serve / Por que é relevante?:** Este ataque é usado para roubar informações diretamente no momento em que elas são inseridas ou exibidas. Sua relevância está em sua simplicidade e eficácia, pois:
+- **O que é?:** O Surf de Ombro é um ataque onde um invasor fisicamente observa a vítima para obter informações sensíveis. Isso pode ser feito olhando por cima do ombro enquanto a pessoa digita um PIN em um caixa eletrônico, visualiza um código de acesso no celular, ou acessa informações confidenciais em um notebook em local público.
+- **Para que serve / Por que é relevante?:** Este ataque é usado para roubar informações diretamente no momento em que elas são inseridas ou exibidas. Sua relevância está em sua simplicidade e eficácia, pois:
   - Não exige conhecimento técnico avançado.
   - Captura dados em **tempo real** (como PINs e padrões de desbloqueio).
   - **Contorna muitas defesas digitais**, já que a senha não é interceptada, mas sim observada.
@@ -39,8 +39,8 @@ Como o Shoulder Surfing é uma técnica de ataque físico e de engenharia social
 
 ## 2- Mergulho no Lixo (Dumpster Diving)
 
-- ***O que é?:** O Mergulho no Lixo é a prática de examinar o lixo (físico ou digital) de um indivíduo ou organização em busca de informações descartadas que ainda são confidenciais e podem ser usadas em um ataque. A velha frase "O lixo de um homem é o tesouro de outro homem" é perfeita aqui.
-- ***Para que serve / Por que é relevante?:** EServe para obter dados que, apesar de descartados, podem ser extremamente valiosos para um atacante. É relevante porque:
+- **O que é?:** O Mergulho no Lixo é a prática de examinar o lixo (físico ou digital) de um indivíduo ou organização em busca de informações descartadas que ainda são confidenciais e podem ser usadas em um ataque. A velha frase "O lixo de um homem é o tesouro de outro homem" é perfeita aqui.
+- **Para que serve / Por que é relevante?:** EServe para obter dados que, apesar de descartados, podem ser extremamente valiosos para um atacante. É relevante porque:
   - É uma fonte rica de **informações que burlam defesas digitais** (firewalls, antivírus), pois são documentos físicos ou mídias não destruídas.
   - É uma forma eficaz de **reconhecimento** para planejar ataques de *phishing* ou engenharia social mais convincentes.
   - **Contorna muitas defesas digitais**, já que a senha não é interceptada, mas sim observada.
@@ -66,7 +66,6 @@ A falha aqui é o descarte inadequado de informações sensíveis, que não fora
   - **Serviços Profissionais:** Contratar empresas especializadas em descarte seguro de informações.
   - **Conscientização:** Educar a si mesmo e a outros sobre a importância de descartar informações corretamente.
   - **Política de Mesa Limpa (Clean Desk Policy):** Não deixar documentos sensíveis expostos em mesas ao sair do local de trabalho.
-- 
 
 ### Exemplos de CVE
 Assim como o Shoulder Surfing, o Dumpster Diving é uma técnica de ataque físico e de engenharia social, e **não possui CVEs diretamente associadas**. O Dumpster Diving explora a falha humana no gerenciamento e descarte de informações.
