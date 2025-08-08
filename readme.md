@@ -44,8 +44,6 @@ A sua contribuição é muito bem-vinda! Se você deseja adicionar um novo artig
 5.  **Envie para a sua Branch** (`git push origin feature/meu-novo-artigo`).
 6.  **Abra um Pull Request (PR)** para que sua contribuição possa ser revisada e integrada ao projeto principal.
 
-Para garantir a qualidade e a padronização, por favor, consulte nosso **Guia de Contribuição** (sugestão: criar um arquivo `CONTRIBUTING.md`) antes de começar.
-
 ## ⚖️ Licença
 
 Este projeto é licenciado sob a Licença MIT. Veja o arquivo `LICENSE` para mais detalhes. Isso significa que você pode usar, copiar, modificar e distribuir o conteúdo, desde que dê o crédito apropriado.
