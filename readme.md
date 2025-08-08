@@ -2,11 +2,11 @@
 
 Bem-vindo(a) ao **Cybersecurity-Docs**! Este é um repositório open-source dedicado a centralizar, organizar e compartilhar conhecimento de alta qualidade sobre Tecnologia da Informação e Cibersegurança.
 
-O objetivo é criar uma base de conhecimento robusta e acessível para estudantes, profissionais em transição de carreira e especialistas que buscam aprofundar seus conhecimentos.
+O objetivo é criar uma base de conhecimento robusta e acessível para estudantes, profissionais em transição de carreira e especialistas que buscam aprofundar seus conhecimentos ou que queiram compartilhá-lo.
 
 ## 🎯 Objetivo
 
-Nossa missão é desmistificar conceitos complexos e fornecer guias práticos, artigos e tutoriais sobre as mais diversas áreas de TI e Segurança Cibernética, tudo em português. Queremos ser a fonte de consulta que gostaríamos de ter tido quando começamos nossas jornadas.
+Nossa missão é desmistificar conceitos complexos e fornecer guias práticos, artigos e tutoriais sobre as mais diversas áreas de TI e Segurança Cibernético. Queremos ser a fonte de consulta que gostaríamos de ter tido quando começamos nossas jornadas.
 
 ## 📂 Estrutura do Repositório
 
