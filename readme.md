@@ -16,7 +16,7 @@ Para manter a organização, os artigos estão divididos em diretórios temátic
   - *Redes, Sistemas Operacionais, Criptografia...*
 - **02-Seguranca-Ofensiva/**
   - *Pentest, Red Teaming, Análise de Malware...*
-- **03-Seguranca-Defensiva/**
+- [**03-Seguranca-Defensiva/**](/03-Seguranca-Defensiva/indice03.md)
   - *Blue Teaming, SOC, Análise de Logs, SIEM...*
 - [**04-GRC-e-Normas/**](/04-GRC-e-Normas/indice04.md)
   - *Governança, Risco, Compliance, LGPD, ISO 27001...*
