@@ -18,7 +18,7 @@ Para manter a organização, os artigos estão divididos em diretórios temátic
   - *Pentest, Red Teaming, Análise de Malware...*
 - **03-Seguranca-Defensiva/**
   - *Blue Teaming, SOC, Análise de Logs, SIEM...*
-- **04-GRC-e-Normas/**
+- [**04-GRC-e-Normas/**](/04-GRC-e-Normas/indice04.md)
   - *Governança, Risco, Compliance, LGPD, ISO 27001...*
 - **05-Seguranca-em-Nuvem/**
   - *AWS, Azure, GCP, SecDevOps...*
