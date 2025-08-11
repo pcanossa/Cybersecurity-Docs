@@ -48,5 +48,10 @@
   - [Engenharia Social](./engenharia_social.md)
   - [Shoulder Surfing e Dumpster Diving](./shoulder_surfing_e_dumpster_diving.md)
 
-- **Certificações - Base de Estudos**
+- **Certificações - Requisitos**
   - [EXIN Cyber & IT Security Foundation](https://dam.exin.com/api/&request=asset.permadownload&id=376&type=this&token=57674ec538288c8b2a9af64caa402073)
+  - [CompTIA Cybersecurity Analyst (CySA+)](https://lecbyo.files.cmp.optimizely.com/download/492916babbba11ef8d1d9a32c8c5b2ab)
+  - [CompTIA Security+](https://lecbyo.files.cmp.optimizely.com/download/9176e852bbba11efa3869a32c8c5b2ab)
+  - [CompTIA SecurityX](https://lecbyo.files.cmp.optimizely.com/download/35cf5f02b73211efa0ca8e42e80f1a8f)
+  - [CompTIA PenTest+](https://lecbyo.files.cmp.optimizely.com/download/1e8cf0febef111efb260822b03028498)
+  - [CompTIA Advanced Security Practitioner (CASP+)](https://lecbyo.files.cmp.optimizely.com/download/1ca2284abef111ef808db6dd7849a8fd)
