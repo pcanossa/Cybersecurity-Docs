@@ -31,11 +31,18 @@
   - [Cryptography and Network Security Principles and Practices](https://www.inf.ufsc.br/~bosco.sobral/ensino/ine5680/material-cripto-seg/2014-1/Stallings/Stallings_Cryptography_and_Network_Security.pdf)
   - [Introdução à Criptografia](https://www.inf.ufsc.br/~bosco.sobral/ensino/ine5680/material-cripto-seg/2014-2/certificacao-digital.pdf)
 
-- **Conceitos em Cybersecurity**
+- **Conceitos Base em Cybersecurity**
   - [Pilares da Análise de Risco](./pilares-da-analise-de-risco.md)
   - [Gestão de Riscos](./gestao-de-riscos.md)
   - [Agentes de Ameaça](./agentes-de-ameaça.md)
   - [Indicadores de Ameaça](./indicadores-de-ameaca.md)
+
+- **Vulnerabilidades**
+  - [Vulnerabilidades de IP](./vulnerabilidades-ip.md)
+  - [Vulnerabilidades ICMP](./ataques-icmp.md)
+  - [Vulnerabilidades ARP](./ataques-protocolo-arp.md)
+  - [Vulnerabilidade TCP](./vulnerabilidades-tcp.md)
+  - [Vulnerabilidade UDP](./vulnerabilidade-udp.md)
 
 - **Engenharia Social**
   - [Engenharia Social](./engenharia_social.md)
