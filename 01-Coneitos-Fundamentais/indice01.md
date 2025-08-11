@@ -32,7 +32,8 @@
   - [Introdução à Criptografia](https://www.inf.ufsc.br/~bosco.sobral/ensino/ine5680/material-cripto-seg/2014-2/certificacao-digital.pdf)
 
 - **Conceitos em Cybersecurity**
-  - [Pilares da Análise de Risco](./pilares-da-analise%20de-risco.md)
+  - [Pilares da Análise de Risco](./pilares-da-analise-de-risco.md)
+  - [Gestão de Riscos](./gestao-de-riscos.md)
 
 - **Engenharia Social**
   - [Engenharia Social](./engenharia_social.md)
