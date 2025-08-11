@@ -35,6 +35,7 @@
   - [Pilares da Análise de Risco](./pilares-da-analise-de-risco.md)
   - [Gestão de Riscos](./gestao-de-riscos.md)
   - [Agentes de Ameaça](./agentes-de-ameaça.md)
+  - [Indicadores de Ameaça](./indicadores-de-ameaca.md)
 
 - **Engenharia Social**
   - [Engenharia Social](./engenharia_social.md)
