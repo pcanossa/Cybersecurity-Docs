@@ -31,7 +31,8 @@
   - [Cryptography and Network Security Principles and Practices](https://www.inf.ufsc.br/~bosco.sobral/ensino/ine5680/material-cripto-seg/2014-1/Stallings/Stallings_Cryptography_and_Network_Security.pdf)
   - [Introdução à Criptografia](https://www.inf.ufsc.br/~bosco.sobral/ensino/ine5680/material-cripto-seg/2014-2/certificacao-digital.pdf)
 
-- **Exploits**
+- **Conceitos em Cybersecurity**
+  - [Pilares da Análise de Risco](./pilares-da-analise%20de-risco.md)
 
 - **Engenharia Social**
   - [Engenharia Social](./engenharia_social.md)
