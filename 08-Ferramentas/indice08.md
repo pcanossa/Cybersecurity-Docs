@@ -64,3 +64,9 @@
 
 - **100 FERRAMENTAS OSINT - DOCUMENT**
   * [Document for OSINT  Excellence](./FerramentasOSINT.pdf)
+
+- **CISA FREE TOOLS FOR CLOUD SECURITY**
+  * [Free Tools For Cloud Enviroments](./cisa-free.pdf)
+
+- **AVALIAÇÃO DE SEGURANÇA**
+  * [Cyber Security Evaluation Tool (CSET) - CISA](./CSET.md) 
