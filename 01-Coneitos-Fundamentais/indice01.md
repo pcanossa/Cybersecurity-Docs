@@ -13,6 +13,7 @@
   * [Guia Essencial de Comandos Linux (Ubuntu/Debian): Gerenciamento e Segurança](./Comandos_linux.md)
   * [Curso de Linux Modulo Basico](https://www.linux.ime.usp.br/~albasalo/Apostila/apostila.pdf)
   * [Guia Foca Linux](https://www.guiafoca.org/)
+  * [Análise de Logs em Servidores Linux](./analise-logs.md)
 
 - **Windows**
 
@@ -25,6 +26,7 @@
 - **VM - Virtual Machines**
   - [Tutorial Virtualbox - Instalação e Configuração de VMs](https://docente.ifrn.edu.br/thiagodutra/disciplinas/materiais/instalacao-e-configuracao-de-servidores-tii/Tutorial%20-%20VirtualBox%20-VM.pdf)
   - [Tutorial Virtualbox - Instalação de SO Linux](https://docentes.ifrn.edu.br/thiagodutra/disciplinas/materiais/instalacao-e-configuracao-de-servidores-tii/Tutorial%20-%20VirtualBox%20-SO%20Linux.pdf)
+  - [Solucionando Erro de Importação de OVA no VMware por Ausência de Descritor OVF](./modificando-ova-vb-para-vmware.md)
 
 - **Criptografia**
   - [Applied Cryptography](https://www.inf.ufsc.br/~bosco.sobral/ensino/ine5680/material-cripto-seg/2014-1/cryptoBruceSchneier.pdf)
@@ -43,10 +45,22 @@
   - [Vulnerabilidades ARP](./ataques-protocolo-arp.md)
   - [Vulnerabilidade TCP](./vulnerabilidades-tcp.md)
   - [Vulnerabilidade UDP](./vulnerabilidade-udp.md)
+  - [Vulnerabilidades DNS](./vulnearbilidade-dns.md)
+  - [Vulnerabilidades DHCP](./vulnerabilidades-dhcp.md)
+  - [Vulnerabilidades HTTP-Web](./vulnerabilidades-http.md)
+  - [Vulnerabilidades SMTP - Email](./vulnerabilidades-email.md)
 
 - **Engenharia Social**
   - [Engenharia Social](./engenharia_social.md)
   - [Shoulder Surfing e Dumpster Diving](./shoulder_surfing_e_dumpster_diving.md)
+
+- **Mitigações**
+  - [Mitigação Geral de Malwares](./mitigacao-malware.md) 
+  - [Mitigação de Vírus](./mitigacao-virus.md)
+  - [Mitigação de Worms](./mitigacao-worms.md)
+  - [Mitigação de Reconhecimento de Rede](./mitigacao-reconhecimento.md)
+  - [Mitgação de Ataque de Rede](./mitigacao-ataque.md)
+  - [Mitigação de DoS DDoS](./mitigacao-dos-ddos.md)
 
 - **Certificações - Requisitos**
   - [EXIN Cyber & IT Security Foundation](https://dam.exin.com/api/&request=asset.permadownload&id=376&type=this&token=57674ec538288c8b2a9af64caa402073)
@@ -55,3 +69,8 @@
   - [CompTIA SecurityX](https://lecbyo.files.cmp.optimizely.com/download/35cf5f02b73211efa0ca8e42e80f1a8f)
   - [CompTIA PenTest+](https://lecbyo.files.cmp.optimizely.com/download/1e8cf0febef111efb260822b03028498)
   - [CompTIA Advanced Security Practitioner (CASP+)](https://lecbyo.files.cmp.optimizely.com/download/1ca2284abef111ef808db6dd7849a8fd)
+
+- **Páginas e Repositórios de Conteúdo e Utilidades**
+  - [aldeid - artigos variados](https://www.aldeid.com/wiki/Main_Page)
+  - [Kali Tools](https://www.kali.org/tools/)
+  - [Clouflare Radar](https://radar.cloudflare.com/)
