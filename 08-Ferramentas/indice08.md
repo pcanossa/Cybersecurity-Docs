@@ -18,6 +18,9 @@
   * [TCPDump](https://www.tcpdump.org/)
   * [Ettercap](https://www.ettercap-project.org/index.html)
   * [DSNiff](https://monkey.org/~dugsong/dsniff/)
+  * [NF Dump](https://github.com/phaag/nfdump)
+  * [Snort](https://www.snort.org/)
+  * [Mullvad](https://mullvad.net/en/help/tor-and-mullvad-vpn)
 
 - **FILE & HASH & ANALYSIS & SANDBOX**
   * [FileSec](https://filesec.io/#)
@@ -73,6 +76,8 @@
   * [ProcDot](http://www.procdot.com/)
   * [Autoruns](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns)
   * [TcpView](https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview)
+  * [Wazuh](https://wazuh.com/)
+  * [MISP Threat Sharing](https://www.misp-project.org/)
 
 - **REVERSE ENGINEERING & DEBUGGING & FIDDLER**
   * [Fiddler](https://www.telerik.com/fiddler)
@@ -101,6 +106,7 @@
   - [Wapiti](https://wapiti-scanner.github.io/)
   - [Cohesion](https://cohesion.sh/)
 
-- **AUDITORIA DE TELEFONIA VOIP**
+- **TELEFONIA VOIP**
   - [VAST Viper](https://vipervast.sourceforge.net/)
   - [WarVox](https://github.com/rapid7/warvox/)
+  - [IPQS](https://www.ipqualityscore.com/free-phone-number-lookup)

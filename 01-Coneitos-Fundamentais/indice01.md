@@ -61,7 +61,7 @@
   - [Mitigação de Reconhecimento de Rede](./mitigacao-reconhecimento.md)
   - [Mitgação de Ataque de Rede](./mitigacao-ataque.md)
   - [Mitigação de DoS DDoS](./mitigacao-dos-ddos.md)
-  - [DDoS Defense with cloud-based DDoS mitigation services](https://www.cloudflare.com/static/aff6e173f07a50401b12eead49e95141/Always-on-vs-on-demand-DDoS-Protection.pdf#:~:text=This%20paper%20investigates%20the%20two%20deployment%20methods%20of,traffic%20only%20when%20an%20attack%20is%20detected%20%28on-demand%29.)
+  - [DDoS Defense with cloud-based DDoS mitigation services](https://www.cloudflare.com/static/aff6e173f07a50401b12eead49e95141/Always-on-vs-on-demand-DDoS-Protection.pdf)
 
 - **Certificações - Requisitos**
   - [EXIN Cyber & IT Security Foundation](https://dam.exin.com/api/&request=asset.permadownload&id=376&type=this&token=57674ec538288c8b2a9af64caa402073)

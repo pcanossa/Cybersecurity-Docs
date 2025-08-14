@@ -28,7 +28,7 @@ Para manter a organização, os artigos estão divididos em diretórios temátic
   - *Segurança em IA, IA para Segurança...*
 - **[08-Ferramentas/](./08-Ferramentas/indice08.md)**
   - *VirusTotal, Cisco Talos, Ghidra...*  
-- **[09-Noticias-de Vulnerabilidades-Exploradas](/09-Notícias-de-Métodos-de-Exploração/indice09.md)**
+- **[09-Noticias-de Vulnerabilidades-Exploradas](/09-Noticias-de-Metodos-de-Exploracao/)**
   - *Vulnerabilidade explorada, CVE relativa, Método de Exploração, Mitigação...*
 
 *Sinta-se à vontade para sugerir novas categorias!*
