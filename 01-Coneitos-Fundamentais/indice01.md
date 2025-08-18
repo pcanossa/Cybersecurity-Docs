@@ -63,6 +63,11 @@
   - [Mitigação de DoS DDoS](./mitigacao-dos-ddos.md)
   - [DDoS Defense with cloud-based DDoS mitigation services](https://www.cloudflare.com/static/aff6e173f07a50401b12eead49e95141/Always-on-vs-on-demand-DDoS-Protection.pdf)
 
+- **Dispositivos de Segurnaça**
+  - [Firewall](./firewall.md)
+  - [IDS e IPS](./idp-ips.md)
+  - [ACLs](./acls.md)
+
 - **Certificações - Requisitos**
   - [EXIN Cyber & IT Security Foundation](https://dam.exin.com/api/&request=asset.permadownload&id=376&type=this&token=57674ec538288c8b2a9af64caa402073)
   - [CompTIA Cybersecurity Analyst (CySA+)](https://lecbyo.files.cmp.optimizely.com/download/492916babbba11ef8d1d9a32c8c5b2ab)

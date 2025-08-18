@@ -22,6 +22,8 @@
   * [Snort](https://www.snort.org/)
   * [Mullvad](https://mullvad.net/en/help/tor-and-mullvad-vpn)
   * [Suricata]([htt](https://suricata.io/))
+  * [Ipapi](https://ipapi.co/)
+  * [httpbin](https://httpbin.org/ip)
 
 - **FILE & HASH & ANALYSIS & SANDBOX**
   * [FileSec](https://filesec.io/#)
@@ -45,6 +47,7 @@
   * [Zed Attack Proxy](https://www.zaproxy.org/)
   * [Hybris Analisys](https://hybrid-analysis.com/)
   * [HexStrike-AI](https://github.com/0x4m4/hexstrike-ai)
+  * [Paramiko](https://www.paramiko.org/)
 
 - **FILE HASH TOOLS**
   * [HashTools (Windows)](https://www.binaryfortress.com/HashTools/)
@@ -94,6 +97,7 @@
   * [URLHaus](https://urlhaus.abuse.ch/)
   * [ThreatFox](https://threatfox.abuse.ch/)
   * [YARAify](https://yaraify.abuse.ch/)
+  * [Cyber-Sploit](https://github.com/Cyber-Dioxide/Cyber-Sploit)
 
 - **100 FERRAMENTAS OSINT - DOCUMENT**
   * [Document for OSINT  Excellence](./FerramentasOSINT.pdf)

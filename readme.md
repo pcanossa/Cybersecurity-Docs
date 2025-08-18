@@ -14,7 +14,7 @@ Para manter a organização, os artigos estão divididos em diretórios temátic
 
 - **[01-Conceitos-Fundamentais/](/01-Coneitos-Fundamentais/indice01.md/)**
   - *Redes, Sistemas Operacionais, Criptografia...*
-- **02-Seguranca-Ofensiva/**
+- **[02-Seguranca-Ofensiva/](/02-Seguranca-Ofensiva/indice02.md)**
   - *Pentest, Red Teaming, Análise de Malware...*
 - [**03-Seguranca-Defensiva/**](/03-Seguranca-Defensiva/indice03.md)
   - *Blue Teaming, SOC, Análise de Logs, SIEM...*
