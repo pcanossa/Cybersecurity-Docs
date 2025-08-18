@@ -21,6 +21,7 @@
   * [NF Dump](https://github.com/phaag/nfdump)
   * [Snort](https://www.snort.org/)
   * [Mullvad](https://mullvad.net/en/help/tor-and-mullvad-vpn)
+  * [Suricata]([htt](https://suricata.io/))
 
 - **FILE & HASH & ANALYSIS & SANDBOX**
   * [FileSec](https://filesec.io/#)
@@ -41,7 +42,9 @@
   * [BurpSuite](https://portswigger.net/burp/communitydownload)
   * [Maltego](https://www.maltego.com/?utm_source=paterva.com&utm_medium=referral&utm_campaign=301)
   * [Nessus](https://www.tenable.com/downloads/nessus?loginAttempted=true)
-  * 
+  * [Zed Attack Proxy](https://www.zaproxy.org/)
+  * [Hybris Analisys](https://hybrid-analysis.com/)
+  * [HexStrike-AI](https://github.com/0x4m4/hexstrike-ai)
 
 - **FILE HASH TOOLS**
   * [HashTools (Windows)](https://www.binaryfortress.com/HashTools/)
@@ -78,6 +81,7 @@
   * [TcpView](https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview)
   * [Wazuh](https://wazuh.com/)
   * [MISP Threat Sharing](https://www.misp-project.org/)
+  * [ClamAV](https://www.clamav.net/)
 
 - **REVERSE ENGINEERING & DEBUGGING & FIDDLER**
   * [Fiddler](https://www.telerik.com/fiddler)
@@ -110,3 +114,9 @@
   - [VAST Viper](https://vipervast.sourceforge.net/)
   - [WarVox](https://github.com/rapid7/warvox/)
   - [IPQS](https://www.ipqualityscore.com/free-phone-number-lookup)
+
+- **BUG BOUNTY**
+  - [Bug Hunter](https://www.bughunt.com.br/)
+  - [Hacker One](https://hackerone.com/bug-bounty-programs)
+  - [Google Bug Hunters](https://bughunters.google.com/)
+  - [Bug Crowd](https://bugcrowd.com/engagements?category=bug_bounty&page=1&sort_by=promoted&sort_direction=desc)
