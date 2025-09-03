@@ -48,6 +48,8 @@
   * [Hybris Analisys](https://hybrid-analysis.com/)
   * [HexStrike-AI](https://github.com/0x4m4/hexstrike-ai)
   * [Paramiko](https://www.paramiko.org/)
+  * [BeEF](https://beefproject.com/)
+  * [HTTracker](https://www.httrack.com/)
 
 - **FILE HASH TOOLS**
   * [HashTools (Windows)](https://www.binaryfortress.com/HashTools/)
@@ -99,14 +101,12 @@
   * [YARAify](https://yaraify.abuse.ch/)
   * [Cyber-Sploit](https://github.com/Cyber-Dioxide/Cyber-Sploit)
 
-- **100 FERRAMENTAS OSINT - DOCUMENT**
-  * [Document for OSINT  Excellence](./FerramentasOSINT.pdf)
-
-- **CISA FREE TOOLS FOR CLOUD SECURITY**
-  * [Free Tools For Cloud Enviroments](./cisa-free.pdf)
-
 - **AVALIAÇÃO DE SEGURANÇA**
   * [Cyber Security Evaluation Tool (CSET) - CISA](./CSET.md) 
+
+- **OSINT**
+  * [X-OSINT](https://github.com/TermuxHackz/X-osint)
+  * [IntelX]()
 
 - **AUDITORIA DE BANCO DE DADOS - WEB**
   - [DB Audit Free Edition](http://www.softtreetech.com)
@@ -114,12 +114,26 @@
   - [Wapiti](https://wapiti-scanner.github.io/)
   - [Cohesion](https://cohesion.sh/)
 
-- **TELEFONIA VOIP**
+- **TELEFONIA E VOIP**
   - [VAST Viper](https://vipervast.sourceforge.net/)
   - [WarVox](https://github.com/rapid7/warvox/)
   - [IPQS](https://www.ipqualityscore.com/free-phone-number-lookup)
+  - [HLR Lookups](https://www.hlrlookup.com/)
+  - [EPIEOS](https://epieos.com/)
+  - [Sync.me](https://sync.me/)
 
-- **BUG BOUNTY**
+- **EMAIL**
+  - [Hunter](https://hunter.io/bulk)
+  - [Voila Norbert](https://app.voilanorbert.com/)
+  - [GHunt](https://github.com/mxrch/GHunt)
+
+- **DOCUMENTOS E LISTAS DE USO OSINT**
+  * [Document for OSINT  Excellence](./FerramentasOSINT.pdf)
+  * [OSINT Tools Handbook and Resources 2020](https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_2020.pdf)
+  * [Free Tools For Cloud Enviroments](./cisa-free.pdf)
+  * [OSINT Framework](https://osintframework.com/)
+
+- **PLATAFORMAS BUG BOUNTY**
   - [Bug Hunter](https://www.bughunt.com.br/)
   - [Hacker One](https://hackerone.com/bug-bounty-programs)
   - [Google Bug Hunters](https://bughunters.google.com/)

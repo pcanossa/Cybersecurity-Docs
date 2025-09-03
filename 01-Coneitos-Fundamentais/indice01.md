@@ -22,6 +22,7 @@
 - **Docker**
   - [Introdução a contêineres e Docker](https://learn.microsoft.com/pt-br/dotnet/architecture/microservices/container-docker-introduction/)
   - [Docker para Iniciantes](https://docker-curriculum.com/)
+  - [Docker CLI Commands](https://docs.docker.com/get-started/docker_cheatsheet.pdf)
 
 - **VM - Virtual Machines**
   - [Tutorial Virtualbox - Instalação e Configuração de VMs](https://docente.ifrn.edu.br/thiagodutra/disciplinas/materiais/instalacao-e-configuracao-de-servidores-tii/Tutorial%20-%20VirtualBox%20-VM.pdf)
@@ -68,16 +69,28 @@
   - [IDS e IPS](./idp-ips.md)
   - [ACLs](./acls.md)
 
-- **Certificações - Requisitos**
+- **Certificações**
   - [EXIN Cyber & IT Security Foundation](https://dam.exin.com/api/&request=asset.permadownload&id=376&type=this&token=57674ec538288c8b2a9af64caa402073)
   - [CompTIA Cybersecurity Analyst (CySA+)](https://lecbyo.files.cmp.optimizely.com/download/492916babbba11ef8d1d9a32c8c5b2ab)
   - [CompTIA Security+](https://lecbyo.files.cmp.optimizely.com/download/9176e852bbba11efa3869a32c8c5b2ab)
   - [CompTIA SecurityX](https://lecbyo.files.cmp.optimizely.com/download/35cf5f02b73211efa0ca8e42e80f1a8f)
   - [CompTIA PenTest+](https://lecbyo.files.cmp.optimizely.com/download/1e8cf0febef111efb260822b03028498)
   - [CompTIA Advanced Security Practitioner (CASP+)](https://lecbyo.files.cmp.optimizely.com/download/1ca2284abef111ef808db6dd7849a8fd)
+  - [GIAC GPEN](https://www.giac.org/certifications/penetration-tester-gpen/)
+  - [EC Council Certified Ethical Hacker (CEH)](https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/)
+  - [EC Certified Chief Information Security Officer (CCISO)](https://www.eccouncil.org/train-certify/certified-chief-information-security-officer-cciso/)
+  - [EC Council Computer Hacking Forensic Investigator (CHFI)](https://www.eccouncil.org/train-certify/certified-penetration-tester)
+  - [EC Council Certified Penetration Testing Professional (CPENT)](https://www.eccouncil.org/train-certify/certified-penetration-testing-professional-cpent/)
 
 - **Páginas e Repositórios de Conteúdo e Utilidades**
   - [aldeid - artigos variados](https://www.aldeid.com/wiki/Main_Page)
   - [Kali Tools](https://www.kali.org/tools/)
   - [Clouflare Radar](https://radar.cloudflare.com/)
   - [CSIRTs Brasil](https://www.cert.br/csirts/)
+  - [Cyber Threat Intelligence Pannel](https://start.me/p/wMrA5z/cyber-threat-intelligence)
+  - [Repositório Guia Dev](https://github.com/arthurspk/guiadevbrasil)
+  - [HackTheBox](https://www.hackthebox.com/)
+  - [picoCTF](https://picoctf.com/)
+  - [TryHackMe](https://tryhackme.com/)
+  - [HackThisSite](https://www.hackthissite.org/)
+  - [Vulhub Github](https://github.com/vulhub)

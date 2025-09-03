@@ -1,4 +1,4 @@
-# Artigo Técnico: Listas de Controle de Acesso (ACLs) - A Filtragem Granular do Tráfego de Rede
+# Listas de Controle de Acesso (ACLs)
 
 **Data de Publicação:** 18 de Agosto de 2025  
 **Autora:** Patrícia Canossa Gagliardi
