@@ -5,6 +5,7 @@
   * [Protocolos e Serviços de Redes](https://redeetec.mec.gov.br/images/stories/pdf/eixo_infor_comun/tec_inf/081112_protserv_redes.pdf)
   * [Cartilha de Segurança para Internet - Cert.br](https://www.inf.ufsc.br/~bosco.sobral/ensino/ine5680/material-seg-redes/cartilha-08-malware.pdf)
   * [Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) pecifications - IEEE](https://www.inf.ufsc.br/~bosco.sobral/ensino/ine5377/802.11g-2003.pdf)
+  * [Tabela de Serviços-Protocolos-Portas](./portas-servicos.md)
 
 - **Shell**
   - [Canivete Suíço do Shell (Bash)](https://aurelio.net/shell/canivete/)
@@ -94,3 +95,4 @@
   - [TryHackMe](https://tryhackme.com/)
   - [HackThisSite](https://www.hackthissite.org/)
   - [Vulhub Github](https://github.com/vulhub)
+  - [Ben Wilson Blog - Criador Vulnhub](https://blog.g0tmi1k.com/)
