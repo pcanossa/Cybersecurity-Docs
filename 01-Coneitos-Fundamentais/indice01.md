@@ -6,6 +6,7 @@
   * [Cartilha de Segurança para Internet - Cert.br](https://www.inf.ufsc.br/~bosco.sobral/ensino/ine5680/material-seg-redes/cartilha-08-malware.pdf)
   * [Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) pecifications - IEEE](https://www.inf.ufsc.br/~bosco.sobral/ensino/ine5377/802.11g-2003.pdf)
   * [Tabela de Serviços-Protocolos-Portas](./portas-servicos.md)
+  * [Tabela Códigos de Status HTTP](./codigos-http.md)
 
 - **Shell**
   - [Canivete Suíço do Shell (Bash)](https://aurelio.net/shell/canivete/)
