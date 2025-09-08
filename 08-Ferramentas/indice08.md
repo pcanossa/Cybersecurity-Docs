@@ -24,6 +24,7 @@
   * [Suricata]([htt](https://suricata.io/))
   * [Ipapi](https://ipapi.co/)
   * [httpbin](https://httpbin.org/ip)
+  * [OUI Lookup - Wireshark](https://www.wireshark.org/tools/oui-lookup.html)
 
 - **FILE & HASH & ANALYSIS & SANDBOX**
   * [FileSec](https://filesec.io/#)
@@ -106,7 +107,8 @@
 
 - **OSINT**
   * [X-OSINT](https://github.com/TermuxHackz/X-osint)
-  * [IntelX]()
+  * [BCHackTool](https://github.com/ByCh4n/BCHackTool)
+  * [Infooze](https://infoooze.js.org/)
 
 - **AUDITORIA DE BANCO DE DADOS - WEB**
   - [DB Audit Free Edition](http://www.softtreetech.com)

@@ -2,12 +2,14 @@
 
 - **Redes**
   * [Fundamentos de Redes de Computadores](https://mediacdns3.ulife.com.br/PAT/Upload/1777748/4088998/images/2a37d90ae9a05ae253846e4599ff2d81.pdf)
+  * [Arquitetura TCP/IP Apostila](https://www.lsi.usp.br/~leo/curso/tcp_ip.pdf)
   * [Modelo OSI e Protocolos - Camadas](./osi.md)
   * [Protocolos e Serviços de Redes](https://redeetec.mec.gov.br/images/stories/pdf/eixo_infor_comun/tec_inf/081112_protserv_redes.pdf)
   * [Cartilha de Segurança para Internet - Cert.br](https://www.inf.ufsc.br/~bosco.sobral/ensino/ine5680/material-seg-redes/cartilha-08-malware.pdf)
   * [Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) pecifications - IEEE](https://www.inf.ufsc.br/~bosco.sobral/ensino/ine5377/802.11g-2003.pdf)
   * [Tabela de Serviços-Protocolos-Portas](./portas-servicos.md)
   * [Tabela Códigos de Status HTTP](./codigos-http.md)
+  * [Índice ID-OUI IEE](https://standards-oui.ieee.org/)
 
 - **Shell**
   - [Canivete Suíço do Shell (Bash)](https://aurelio.net/shell/canivete/)
@@ -99,3 +101,6 @@
   - [Vulhub Github](https://github.com/vulhub)
   - [Ben Wilson Blog - Criador Vulnhub](https://blog.g0tmi1k.com/)
   - [Canal HackingLab](https://www.youtube.com/@Hackinglabrasil)
+  
+- **Cursos**
+  - [Introduction to Linux - Linux Foundation](https://training.linuxfoundation.org/training/introduction-to-linux/)
