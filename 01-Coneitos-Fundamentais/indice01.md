@@ -2,6 +2,7 @@
 
 - **Redes**
   * [Fundamentos de Redes de Computadores](https://mediacdns3.ulife.com.br/PAT/Upload/1777748/4088998/images/2a37d90ae9a05ae253846e4599ff2d81.pdf)
+  * [Modelo OSI e Protocolos - Camadas](./osi.md)
   * [Protocolos e Serviços de Redes](https://redeetec.mec.gov.br/images/stories/pdf/eixo_infor_comun/tec_inf/081112_protserv_redes.pdf)
   * [Cartilha de Segurança para Internet - Cert.br](https://www.inf.ufsc.br/~bosco.sobral/ensino/ine5680/material-seg-redes/cartilha-08-malware.pdf)
   * [Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) pecifications - IEEE](https://www.inf.ufsc.br/~bosco.sobral/ensino/ine5377/802.11g-2003.pdf)
