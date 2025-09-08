@@ -97,3 +97,4 @@
   - [HackThisSite](https://www.hackthissite.org/)
   - [Vulhub Github](https://github.com/vulhub)
   - [Ben Wilson Blog - Criador Vulnhub](https://blog.g0tmi1k.com/)
+  - [Canal HackingLab](https://www.youtube.com/@Hackinglabrasil)
