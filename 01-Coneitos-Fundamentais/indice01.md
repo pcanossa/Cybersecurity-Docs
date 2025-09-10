@@ -2,6 +2,8 @@
 
 - **Redes**
   * [Fundamentos de Redes de Computadores](https://mediacdns3.ulife.com.br/PAT/Upload/1777748/4088998/images/2a37d90ae9a05ae253846e4599ff2d81.pdf)
+  * [Redes de Computadores e a Internet](https://drive.google.com/file/d/1BI6XkXHrwDHofyS412mqFD9QoBg6tKmN/view?usp=drive_link)
+  * [Redes de Computadores](https://drive.google.com/file/d/1l7WkKUHX_gPziJ0-a6dRjNnUJtUggpjN/view?usp=sharing)
   * [Arquitetura TCP/IP Apostila](https://www.lsi.usp.br/~leo/curso/tcp_ip.pdf)
   * [Modelo OSI e Protocolos - Camadas](./osi.md)
   * [Protocolos e Serviços de Redes](https://redeetec.mec.gov.br/images/stories/pdf/eixo_infor_comun/tec_inf/081112_protserv_redes.pdf)
@@ -10,16 +12,29 @@
   * [Tabela de Serviços-Protocolos-Portas](./portas-servicos.md)
   * [Tabela Códigos de Status HTTP](./codigos-http.md)
   * [Índice ID-OUI IEE](https://standards-oui.ieee.org/)
+  * [CCNA 200 301 Official Cert Guide - Volume 1](https://drive.google.com/file/d/1mhiTks1y2SDicxUbzihiwuGHsXmczzGk/view?usp=sharing)
+  * [CCNA 200 301 Official Cert Guide - Volume 2](https://drive.google.com/file/d/1Iz8GVILganH1deBeTfIcvccw4ZUGf1XU/view?usp=sharing)
+  * [Guia de comandos para dispositivos de rede Cisco](https://drive.google.com/file/d/1Iz8GVILganH1deBeTfIcvccw4ZUGf1XU/view?usp=sharing)
+  * [Network Basics](https://drive.google.com/file/d/1zRBCGLwhiqtnxTauENu7nW75FVJs6-t_/view?usp=sharing)
+  * [Guia Tabela Endereçamento IP e Segmentação de Rede](./tabela-ips.md)
 
 - **Shell**
   - [Canivete Suíço do Shell (Bash)](https://aurelio.net/shell/canivete/)
 
 - **Linux**
   * [Guia Essencial de Comandos Linux (Ubuntu/Debian): Gerenciamento e Segurança](./Comandos_linux.md)
+  * [Linux Shell Scripting](https://drive.google.com/file/d/1sbdlhcGUX6olpT433JzfePG6MuIDmOSY/view?usp=sharing)
+  * [Linux Command Line - All Essential Linux Commands](https://drive.google.com/file/d/1r5e6ky20Pv-d4v8CFZTtMyQhlmjocIDc/view?usp=sharing)
   * [Curso de Linux Modulo Basico](https://www.linux.ime.usp.br/~albasalo/Apostila/apostila.pdf)
   * [Guia Foca Linux](https://www.guiafoca.org/)
   * [Análise de Logs em Servidores Linux](./analise-logs.md)
-
+  * [Configuração de Rede por Linha de Comando](https://help.ubuntu.com/community/NetworkConfigurationCommandLine)
+  * [Linux - Redes e Servidores - Guia Prático](https://drive.google.com/file/d/1yy5FAd0y7kJ4vVlfHTGtIFST1tMprMxy/view?usp=sharing)
+  * [Configuração de Rede](https://wiki.debian.org/NetworkConfiguration)
+  * [Administração de Redes Linux](https://drive.google.com/file/d/15dPT-RUhxHsZJxK6RSz-svid2bHxBBKM/view?usp=sharing)
+  * [The Linux Process Journey](https://drive.google.com/file/d/1jIrjljNDaeCgiB9yt2Mrn94XkcYlY8tj/view?usp=sharing)
+  * [Linux Notes for Professionals](https://drive.google.com/file/d/1JLmU3brph33Cn_cpTZF4yes6bNfnbpcg/view?usp=sharing)
+  
 - **Windows**
 
 - **MacOS**
@@ -28,6 +43,7 @@
   - [Introdução a contêineres e Docker](https://learn.microsoft.com/pt-br/dotnet/architecture/microservices/container-docker-introduction/)
   - [Docker para Iniciantes](https://docker-curriculum.com/)
   - [Docker CLI Commands](https://docs.docker.com/get-started/docker_cheatsheet.pdf)
+  - [CI/CD com Docker e Kubernetes](https://drive.google.com/file/d/1cpnWqEQLrWkWf22X12hARM-n2Wbpl6P3/view?usp=sharing)
 
 - **VM - Virtual Machines**
   - [Tutorial Virtualbox - Instalação e Configuração de VMs](https://docente.ifrn.edu.br/thiagodutra/disciplinas/materiais/instalacao-e-configuracao-de-servidores-tii/Tutorial%20-%20VirtualBox%20-VM.pdf)
@@ -44,6 +60,7 @@
   - [Gestão de Riscos](./gestao-de-riscos.md)
   - [Agentes de Ameaça](./agentes-de-ameaça.md)
   - [Indicadores de Ameaça](./indicadores-de-ameaca.md)
+  - [Analytical Risk Management](https://drive.google.com/file/d/1ZHUrtGKIuKcUE8IUOSLXHm2FUzF3KW8B/view?usp=sharing)
 
 - **Vulnerabilidades**
   - [Vulnerabilidades de IP](./vulnerabilidades-ip.md)
@@ -69,10 +86,15 @@
   - [Mitigação de DoS DDoS](./mitigacao-dos-ddos.md)
   - [DDoS Defense with cloud-based DDoS mitigation services](https://www.cloudflare.com/static/aff6e173f07a50401b12eead49e95141/Always-on-vs-on-demand-DDoS-Protection.pdf)
 
-- **Dispositivos de Segurnaça**
+- **Dispositivos de Segurança e Rede**
   - [Firewall](./firewall.md)
   - [IDS e IPS](./idp-ips.md)
   - [ACLs](./acls.md)
+  - [NTD](./NTP.md)
+  - [Servidor AAA](./servidor-AAA.md)
+  - [SNMP](./SNMP.md)
+  - [Syslog](./syslog.md)
+  - [VPN](./vpn.md)
 
 - **Certificações**
   - [EXIN Cyber & IT Security Foundation](https://dam.exin.com/api/&request=asset.permadownload&id=376&type=this&token=57674ec538288c8b2a9af64caa402073)
@@ -101,6 +123,9 @@
   - [Vulhub Github](https://github.com/vulhub)
   - [Ben Wilson Blog - Criador Vulnhub](https://blog.g0tmi1k.com/)
   - [Canal HackingLab](https://www.youtube.com/@Hackinglabrasil)
+  - [Livros Dev](https://github.com/KAYOKG/BibliotecaDev/tree/main/LivrosDev)
+  - [Free Real Cisco, PMI, ISACA, and other IT Certification Exam eBook](https://www.spotoexam.com/free-ebook-download-sns/?id=snschak)
+  - [ExamLabs](https://www.exam-labs.com/)
   
 - **Cursos**
   - [Introduction to Linux - Linux Foundation](https://training.linuxfoundation.org/training/introduction-to-linux/)
