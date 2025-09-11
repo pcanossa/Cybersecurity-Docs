@@ -7,6 +7,9 @@
   * [Modelos para Desenvolvimento de Políticas de Segurança em Tecnologia da Informação](https://www.sans.org/information-security-policy)
   * [Guia de Escrita Técninca em Cybersegurança](https://www.sans.org/white-papers/492)
   * [Guia de Desenvolvimento de Políticas de Segurança em Tecnologia da Informação](https://www.sans.org/white-papers/492)
+  * [CIS Control Community Defense Model](https://www.cisecurity.org/insights/white-papers/cis-community-defense-model-2-0)
+  * [CIS Critical Security Controls v8.1 Mapping to NIST CSF 2.0](https://www.cisecurity.org/insights/white-papers/cis-controls-v8-1-mapping-to-nist-csf-2-0)
+  * [NIST Cybersecurity Framework 2.0](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf)
 
 - **RFCs**
   * [Segurança na Arquitetura da Internet (RFC 1636)](https://datatracker.ietf.org/doc/html/rfc1636)
