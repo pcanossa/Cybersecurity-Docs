@@ -16,6 +16,7 @@
   * [Segurança na Arquitetura da Internet (RFC 1636)](https://datatracker.ietf.org/doc/html/rfc1636)
 
 - **Leis e Normativas Extrangeiras**
+  * [Guia - Leis Essenciais de Cibersegurança Americanas](./guia-leis-eua.md)
   * [2022 Florida Statutes - CHAPTER 815 - COMPUTER-RELATED CRIMES](https://www.flsenate.gov/Laws/Statutes/2022/Chapter815/All)
   * [18 U.S.C. 1029 - Fraud and related activity in connection with access devices](https://www.govinfo.gov/app/details/USCODE-2023-title18/USCODE-2023-title18-partI-chap47-sec1029/summary)
   * [18 U.S.C. 1030 - Fraud and related activity in connection with computers](https://www.govinfo.gov/app/details/USCODE-2023-title18/USCODE-2023-title18-partI-chap47-sec1030)
