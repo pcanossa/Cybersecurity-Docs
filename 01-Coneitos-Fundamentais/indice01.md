@@ -129,6 +129,12 @@
   - [Livros Dev](https://github.com/KAYOKG/BibliotecaDev/tree/main/LivrosDev)
   - [Free Real Cisco, PMI, ISACA, and other IT Certification Exam eBook](https://www.spotoexam.com/free-ebook-download-sns/?id=snschak)
   - [ExamLabs](https://www.exam-labs.com/)
+  - [Newsbites - SANS](https://www.sans.org/newsletters/newsbites)
+  - [@RISK - SANS](https://www.sans.org/newsletters/at-risk)
+  - [FIRST](https://www.first.org/)
+  - [ISC2](https://www.isc2.org/)
+  - [CIS](https://www.cisecurity.org/)
+  - [MITRE ATT&CK](https://attack.mitre.org)
   
 - **Cursos**
   - [Introduction to Linux - Linux Foundation](https://training.linuxfoundation.org/training/introduction-to-linux/)

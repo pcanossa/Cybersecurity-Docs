@@ -51,6 +51,8 @@
   * [Paramiko](https://www.paramiko.org/)
   * [BeEF](https://beefproject.com/)
   * [HTTracker](https://www.httrack.com/)
+  * [OpenVAS](https://www.greenbone.net/en/openvas-basic/)
+  * [SAINT](https://sectools.org/tool/saint/)
 
 - **FILE HASH TOOLS**
   * [HashTools (Windows)](https://www.binaryfortress.com/HashTools/)
@@ -102,29 +104,28 @@
   * [YARAify](https://yaraify.abuse.ch/)
   * [Cyber-Sploit](https://github.com/Cyber-Dioxide/Cyber-Sploit)
 
-- **AVALIAÇÃO DE SEGURANÇA**
-  * [Cyber Security Evaluation Tool (CSET) - CISA](./CSET.md) 
-
-- **OSINT**
-  * [X-OSINT](https://github.com/TermuxHackz/X-osint)
-  * [BCHackTool](https://github.com/ByCh4n/BCHackTool)
-  * [Infooze](https://infoooze.js.org/)
-
 - **AUDITORIA DE BANCO DE DADOS - WEB**
   - [DB Audit Free Edition](http://www.softtreetech.com)
   - [SQL Map](https://sqlmap.org/)
   - [Wapiti](https://wapiti-scanner.github.io/)
   - [Cohesion](https://cohesion.sh/)
 
-- **TELEFONIA E VOIP**
+- **AVALIAÇÃO DE SEGURANÇA**
+  * [Cyber Security Evaluation Tool (CSET) - CISA](./CSET.md) 
+
+- **SecTools**
+  * [Site SecTools.org](https://sectools.org/)
+
+- **OSINT**
+  - [X-OSINT](https://github.com/TermuxHackz/X-osint)
+  - [BCHackTool](https://github.com/ByCh4n/BCHackTool)
+  - [Infooze](https://infoooze.js.org/)
   - [VAST Viper](https://vipervast.sourceforge.net/)
   - [WarVox](https://github.com/rapid7/warvox/)
   - [IPQS](https://www.ipqualityscore.com/free-phone-number-lookup)
   - [HLR Lookups](https://www.hlrlookup.com/)
   - [EPIEOS](https://epieos.com/)
   - [Sync.me](https://sync.me/)
-
-- **EMAIL**
   - [Hunter](https://hunter.io/bulk)
   - [Voila Norbert](https://app.voilanorbert.com/)
   - [GHunt](https://github.com/mxrch/GHunt)
