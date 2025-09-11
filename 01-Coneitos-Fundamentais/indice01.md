@@ -87,6 +87,7 @@
   - [Mitgação de Ataque de Rede](./mitigacao-ataque.md)
   - [Mitigação de DoS DDoS](./mitigacao-dos-ddos.md)
   - [DDoS Defense with cloud-based DDoS mitigation services](https://www.cloudflare.com/static/aff6e173f07a50401b12eead49e95141/Always-on-vs-on-demand-DDoS-Protection.pdf)
+  - [CIS Benchmarks de Configurações Seguras e Mitigação](https://learn.cisecurity.org/benchmarks)
 
 - **Dispositivos de Segurança e Rede**
   - [Firewall](./firewall.md)
