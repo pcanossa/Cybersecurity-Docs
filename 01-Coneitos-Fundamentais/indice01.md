@@ -73,6 +73,7 @@
   - [Vulnerabilidades DHCP](./vulnerabilidades-dhcp.md)
   - [Vulnerabilidades HTTP-Web](./vulnerabilidades-http.md)
   - [Vulnerabilidades SMTP - Email](./vulnerabilidades-email.md)
+  - [Guia - Tabela de Vulnerabilidades (CWE)](./CWE-Guidance.md)
 
 - **Engenharia Social**
   - [Engenharia Social](./engenharia_social.md)
