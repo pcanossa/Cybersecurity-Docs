@@ -49,6 +49,7 @@
   - [Tutorial Virtualbox - Instalação e Configuração de VMs](https://docente.ifrn.edu.br/thiagodutra/disciplinas/materiais/instalacao-e-configuracao-de-servidores-tii/Tutorial%20-%20VirtualBox%20-VM.pdf)
   - [Tutorial Virtualbox - Instalação de SO Linux](https://docentes.ifrn.edu.br/thiagodutra/disciplinas/materiais/instalacao-e-configuracao-de-servidores-tii/Tutorial%20-%20VirtualBox%20-SO%20Linux.pdf)
   - [Solucionando Erro de Importação de OVA no VMware por Ausência de Descritor OVF](./modificando-ova-vb-para-vmware.md)
+  - [Convertendo Discos Virtuais de VDI (VirtualBox) para VMDK (VMware)](./vdi-vdmk.md)
 
 - **Criptografia**
   - [Applied Cryptography](https://www.inf.ufsc.br/~bosco.sobral/ensino/ine5680/material-cripto-seg/2014-1/cryptoBruceSchneier.pdf)
