@@ -4,6 +4,9 @@
   * [NICE Framework Mapping Tool](https://niccs.cisa.gov/tools/nice-framework-mapping-tool)
   * [CMMC Cybersecurity](https://www.federalregister.gov/documents/2024/10/15/2024-22905/cybersecurity-maturity-model-certification-cmmc-program)
   * [ISO 2700](https://drive.google.com/file/d/15tTY4jZl_YoYe37MjHwdGnFWceiy0H9L/view?usp=sharing)
+  * [Modelos para Desenvolvimento de Políticas de Segurança em Tecnologia da Informação](https://www.sans.org/information-security-policy)
+  * [Guia de Escrita Técninca em Cybersegurança](https://www.sans.org/white-papers/492)
+  * [Guia de Desenvolvimento de Políticas de Segurança em Tecnologia da Informação](https://www.sans.org/white-papers/492)
 
 - **RFCs**
   * [Segurança na Arquitetura da Internet (RFC 1636)](https://datatracker.ietf.org/doc/html/rfc1636)
