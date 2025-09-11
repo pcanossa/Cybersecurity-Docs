@@ -20,7 +20,7 @@ Para manter a organização, os artigos estão divididos em diretórios temátic
   - *Blue Teaming, SOC, Análise de Logs, SIEM...*
 - **[04-GRC-Normas-Frameworks/](/04-GRC-e-Normas/indice04.md)**
   - *Governança, Risco, Compliance, LGPD, ISO 27001...*
-- **05-Seguranca-em-Nuvem/**
+- **[05-Seguranca-em-Nuvem/](./05-Seguranca-em-Nuvem/indice05.md)**
   - *AWS, Azure, GCP, SecDevOps...*
 - **[06-Desenvolvimento-Seguro/](/06-Desenvovimento-Seguro/indice06.md)**
   - *OWASP Top 10, SAST, DAST...*
