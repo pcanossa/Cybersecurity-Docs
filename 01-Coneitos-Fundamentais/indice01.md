@@ -62,6 +62,7 @@
   - [Agentes de Ameaça](./agentes-de-ameaça.md)
   - [Indicadores de Ameaça](./indicadores-de-ameaca.md)
   - [Analytical Risk Management](https://drive.google.com/file/d/1ZHUrtGKIuKcUE8IUOSLXHm2FUzF3KW8B/view?usp=sharing)
+  - [Padrões de comunicação de inteligência contra ameaças](./padroes-comunicacao.md)
 
 - **Vulnerabilidades**
   - [Vulnerabilidades de IP](./vulnerabilidades-ip.md)
@@ -135,6 +136,11 @@
   - [ISC2](https://www.isc2.org/)
   - [CIS](https://www.cisecurity.org/)
   - [MITRE ATT&CK](https://attack.mitre.org)
+  - [CISA Automated Indicator Sharing](https://www.cisa.gov/topics/cyber-threats-and-advisories/information-sharing/automated-indicator-sharing-ais)
+  - [CVE Database](https://www.cve.org/)
+  - [CVE Tenable Database](https://www.tenable.com/cve)
+  - [CVE Details](https://www.cvedetails.com/)
+  - [Malware Information Sharing Platform - MISP](https://www.misp-project.org/)
   
 - **Cursos**
   - [Introduction to Linux - Linux Foundation](https://training.linuxfoundation.org/training/introduction-to-linux/)
