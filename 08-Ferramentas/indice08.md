@@ -112,6 +112,7 @@
 
 - **AVALIAÇÃO DE SEGURANÇA**
   * [Cyber Security Evaluation Tool (CSET) - CISA](./CSET.md) 
+  * [CVSS Calculator 3.1](https://www.first.org/cvss/calculator/3-1)
 
 - **SecTools**
   * [Site SecTools.org](https://sectools.org/)

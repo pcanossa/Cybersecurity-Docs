@@ -66,6 +66,7 @@
   - [Tipos de Dados de Inteligência de Ameaças - IOCs, TPPs, Reputação](./dados-inteligencia.md)
   - [Framework MITRE ATT&CK](./framework-mitre-atteck.md)
   - [Framework Cyber Kill Chain](./framework-cyber-kill-chain.md)
+  - [CVE - Common Vulnerabilities and Exposures](./cve.md)
 
 - **Vulnerabilidades**
   - [Vulnerabilidades de IP](./vulnerabilidades-ip.md)
@@ -91,7 +92,6 @@
   - [Mitgação de Ataque de Rede](./mitigacao-ataque.md)
   - [Mitigação de DoS DDoS](./mitigacao-dos-ddos.md)
   - [DDoS Defense with cloud-based DDoS mitigation services](https://www.cloudflare.com/static/aff6e173f07a50401b12eead49e95141/Always-on-vs-on-demand-DDoS-Protection.pdf)
-  - [CIS Benchmarks de Configurações Seguras e Mitigação](https://learn.cisecurity.org/benchmarks)
 
 - **Dispositivos de Segurança e Rede**
   - [Firewall](./firewall.md)
@@ -146,7 +146,11 @@
   - [Repositório MITRE CVE Github](https://github.com/MITRE-Cyber-Security-CVE-Database/mitre-cve-database)
   - [CVEFeed - Latest CVE Feed](https://cvefeed.io/vuln/latest/)
   - [OpenCVE](https://app.opencve.io/cve/)
+  - [NIST National Vulnerability Database (NVD)](https://nvd.nist.gov/)
   - [Malware Information Sharing Platform - MISP](https://www.misp-project.org/)
   
 - **Cursos**
   - [Introduction to Linux - Linux Foundation](https://training.linuxfoundation.org/training/introduction-to-linux/)
+  - [Programa Hackers do Bem](https://hackersdobem.org.br/)
+  - [Trilha Cybersecurity - Networking Academy Cisco](https://www.netacad.com/catalogs/learn/cybersecurity)
+  - [Introdução o Hacker Ético - Etical Hacker Academy (IFRN)](https://www.eha.net.br/cursos/ieh/)
