@@ -62,7 +62,9 @@
   - [Agentes de Ameaça](./agentes-de-ameaça.md)
   - [Indicadores de Ameaça](./indicadores-de-ameaca.md)
   - [Analytical Risk Management](https://drive.google.com/file/d/1ZHUrtGKIuKcUE8IUOSLXHm2FUzF3KW8B/view?usp=sharing)
-  - [Padrões de comunicação de inteligência contra ameaças](./padroes-comunicacao.md)
+  - [Padrões de comunicação de inteligência contra ameaças - STIX, TAXII e CybOX](./padroes-comunicacao.md)
+  - [Tipos de Dados de Inteligência de Ameaças - IOCs, TPPs, Reputação](./dados-inteligencia.md)
+  - [Framework MITRE ATT&CK](./framework-mitre-atteck.md)
 
 - **Vulnerabilidades**
   - [Vulnerabilidades de IP](./vulnerabilidades-ip.md)
@@ -140,6 +142,9 @@
   - [CVE Database](https://www.cve.org/)
   - [CVE Tenable Database](https://www.tenable.com/cve)
   - [CVE Details](https://www.cvedetails.com/)
+  - [Repositório MITRE CVE Github](https://github.com/MITRE-Cyber-Security-CVE-Database/mitre-cve-database)
+  - [CVEFeed - Latest CVE Feed](https://cvefeed.io/vuln/latest/)
+  - [OpenCVE](https://app.opencve.io/cve/)
   - [Malware Information Sharing Platform - MISP](https://www.misp-project.org/)
   
 - **Cursos**
