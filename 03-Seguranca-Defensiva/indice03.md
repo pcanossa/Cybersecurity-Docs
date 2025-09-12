@@ -6,5 +6,8 @@
 * **Industrial Control Systems**
   * [Design and Configuration of IPS, IDS and SIEM in ICS](https://drive.google.com/file/d/1GWJJy3IkaXY-bDsZnL8jc_ynfkbNR9nF/view?usp=sharing)
 
-* **Investigação de Malwares**
+* **Malwares**
   * [Investigação de Malware em Rede com Wireshark](./analise-hash-wireshark.md)
+
+* **Redes e Servidores**
+  * [Perfilamento de Servidores](./perfilamento-servidores.md)
