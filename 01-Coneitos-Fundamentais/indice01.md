@@ -65,6 +65,7 @@
   - [Padrões de comunicação de inteligência contra ameaças - STIX, TAXII e CybOX](./padroes-comunicacao.md)
   - [Tipos de Dados de Inteligência de Ameaças - IOCs, TPPs, Reputação](./dados-inteligencia.md)
   - [Framework MITRE ATT&CK](./framework-mitre-atteck.md)
+  - [Framework Cyber Kill Chain](./framework-cyber-kill-chain.md)
 
 - **Vulnerabilidades**
   - [Vulnerabilidades de IP](./vulnerabilidades-ip.md)
