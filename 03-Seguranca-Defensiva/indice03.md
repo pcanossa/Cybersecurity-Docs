@@ -1,5 +1,8 @@
 ## 📂 Indice de Documentos
 
+- **Metodologia**
+  - [NIST 800-61 - Computer Security Incident Handling Guide](https://www.nist.gov/publications/computer-security-incident-handling-guide)
+
 - **Gestão de Segurança**
   - [Gestão de Segurança de Informação](https://www.inf.ufsc.br/~bosco.sobral/ensino/ine5680/material-seg-redes/gsi.pdf)
   - [CVSS 3.1 - Documento](https://www.first.org/cvss/v3-1/cvss-v31-specification_r1.pdf)

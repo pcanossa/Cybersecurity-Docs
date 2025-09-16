@@ -148,6 +148,7 @@
   - [OpenCVE](https://app.opencve.io/cve/)
   - [NIST National Vulnerability Database (NVD)](https://nvd.nist.gov/)
   - [Malware Information Sharing Platform - MISP](https://www.misp-project.org/)
+  - [Repositório OWASP Github](https://github.com/OWASP)
   
 - **Cursos**
   - [Introduction to Linux - Linux Foundation](https://training.linuxfoundation.org/training/introduction-to-linux/)

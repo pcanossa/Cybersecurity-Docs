@@ -53,7 +53,7 @@
   * [HTTracker](https://www.httrack.com/)
   * [OpenVAS](https://www.greenbone.net/en/openvas-basic/)
   * [SAINT](https://sectools.org/tool/saint/)
-
+  * [OWASO Nettracker](https://owasp.org/www-project-nettacker/)
 - **FILE HASH TOOLS**
   * [HashTools (Windows)](https://www.binaryfortress.com/HashTools/)
   * [CrackStation](https://crackstation.net/)
@@ -90,6 +90,7 @@
   * [Wazuh](https://wazuh.com/)
   * [MISP Threat Sharing](https://www.misp-project.org/)
   * [ClamAV](https://www.clamav.net/)
+  * [Any-Run](https://any.run/)
 
 - **REVERSE ENGINEERING & DEBUGGING & FIDDLER**
   * [Fiddler](https://www.telerik.com/fiddler)
