@@ -18,17 +18,19 @@ Para manter a organização, os artigos estão divididos em diretórios temátic
   - *Pentest, Red Teaming, Análise de Malware...*
 - **[03-Seguranca-Defensiva/](/03-Seguranca-Defensiva/indice03.md)**
   - *Blue Teaming, SOC, Análise de Logs, SIEM...*
-- **[04-GRC-Normas-Frameworks/](/04-GRC-e-Normas/indice04.md)**
+- **[04-Analise-Forense/](/04-ANalise-Forense/indice04.md)**
+  - *Blue Teaming, SOC, Análise de Logs, SIEM...*
+- **[05-GRC-Normas-Frameworks/](/05-GRC-e-Normas/indice04.md)**
   - *Governança, Risco, Compliance, LGPD, ISO 27001...*
-- **[05-Seguranca-em-Nuvem/](./05-Seguranca-em-Nuvem/indice05.md)**
+- **[06-Seguranca-em-Nuvem/](./06-Seguranca-em-Nuvem/indice05.md)**
   - *AWS, Azure, GCP, SecDevOps...*
-- **[06-Desenvolvimento-Seguro/](/06-Desenvovimento-Seguro/indice06.md)**
+- **[07-Desenvolvimento-Seguro/](/07-Desenvovimento-Seguro/indice06.md)**
   - *OWASP Top 10, SAST, DAST...*
-- **[07-Inteligencia-Artificial/](/07-Inteligencia-Artificial/indice07.md)**
+- **[08-Inteligencia-Artificial/](/08-Inteligencia-Artificial/indice07.md)**
   - *Segurança em IA, IA para Segurança...*
-- **[08-Ferramentas/](./08-Ferramentas/indice08.md)**
+- **[09-Ferramentas/](./09-Ferramentas/indice08.md)**
   - *VirusTotal, Cisco Talos, Ghidra...*  
-- **[09-Noticias-de Vulnerabilidades-Exploradas](/09-Noticias-de-Metodos-de-Exploracao/indice09.md)**
+- **[10-Noticias-de Vulnerabilidades-Exploradas](/10-Noticias-de-Metodos-de-Exploracao/indice09.md)**
   - *Vulnerabilidade explorada, CVE relativa, Método de Exploração, Mitigação...*
 
 *Sinta-se à vontade para sugerir novas categorias!*
