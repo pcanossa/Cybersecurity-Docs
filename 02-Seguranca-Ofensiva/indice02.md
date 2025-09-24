@@ -12,6 +12,10 @@
   * [DNS](./dns.md)
   * [Maltego Handbook](https://www.maltego.com/blog/maltego-handbook-for-cyber-threat-intelligence/)
 
+* **Varredura**
+  * [NMap Cheat Sheet](https://stationx-public-download.s3.us-west-2.amazonaws.com/nmap_cheet_sheet_v7.pdf)
+  * [HPing Cheat Sheet](https://cyberwar.nl/d/cheatsheets/hping3_cheatsheet_v1.0-ENG.pdf)
+
 * **SSH Pentest**
   * [Paramiko para SSH Pentest](./paramiko-ssh.md)
 
@@ -22,3 +26,11 @@
   * [Metasploitable2](https://docs.rapid7.com/metasploit/metasploitable-2-exploitability-guide/)
   * [Vulhub](https://www.vulnhub.com/)
   * [Vulhub Docker Images](https://hub.docker.com/u/vulhub)
+  * [Kali CTF Blueprints - Criação de Máquinas Vulneráveis para testes](https://drive.google.com/file/d/1cqviXkmCYWBVxzQkvTEl-Y3XsiLwsmIa/view?usp=sharing)
+
+
+* **OT**
+  * [Embedded Hacking](https://drive.google.com/file/d/1B9a_esTpVW3i-O8JtLH72tcHScbdZERR/view?usp=sharing)
+
+* **Mobile**
+  * [Hacking iOS Applications a detailed testing guide](https://drive.google.com/file/d/17vxAbAbAM-6T1mnedgirlqjH4EyFmXa3/view?usp=sharing)

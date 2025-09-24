@@ -54,6 +54,9 @@
   * [OpenVAS](https://www.greenbone.net/en/openvas-basic/)
   * [SAINT](https://sectools.org/tool/saint/)
   * [OWASO Nettracker](https://owasp.org/www-project-nettacker/)
+  * [PentestGPT](https://pentestgpt.ai/)
+  * [BughunterGPT](https://chatgpt.com/g/g-y2KnRe0w4-bug-hunter-gpt)
+
 - **FILE HASH TOOLS**
   * [HashTools (Windows)](https://www.binaryfortress.com/HashTools/)
   * [CrackStation](https://crackstation.net/)
@@ -131,12 +134,20 @@
   - [Hunter](https://hunter.io/bulk)
   - [Voila Norbert](https://app.voilanorbert.com/)
   - [GHunt](https://github.com/mxrch/GHunt)
+  - [Archive.org](https://archive.org/)
+  - [Rede CNPJ](https://www.redecnpj.com.br/demo/)
+  - [Spiderfoot](https://github.com/smicallef/spiderfoot)
+  - [Shodan](https://www.shodan.io/)
+  - [Babel X](https://www.babelstreet.com/)
+  - [OSINT GPT](https://github.com/estebanpdl/osintgpt)
+  - [OSINT360](https://github.com/oryon-osint/OSINT360-GPT)
 
-- **DOCUMENTOS E LISTAS DE USO OSINT**
+- **DOCUMENTOS DE LISTAS DE FERRAMENTAS**
   * [Document for OSINT  Excellence](./FerramentasOSINT.pdf)
   * [OSINT Tools Handbook and Resources 2020](https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_2020.pdf)
   * [Free Tools For Cloud Enviroments](./cisa-free.pdf)
   * [OSINT Framework](https://osintframework.com/)
+  * [Bug Bounty Tools](https://drive.google.com/file/d/1kGkmOpe2cPQdzIBX4qdC-XAAKzA1pzW6/view?usp=sharing)
 
 - **PLATAFORMAS BUG BOUNTY**
   - [Bug Hunter](https://www.bughunt.com.br/)
