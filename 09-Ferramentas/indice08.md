@@ -52,6 +52,7 @@
   * [BeEF](https://beefproject.com/)
   * [HTTracker](https://www.httrack.com/)
   * [OpenVAS](https://www.greenbone.net/en/openvas-basic/)
+  * [OpenVAS Community Edition](https://github.com/itiligent/Easy-OpenVAS-Installer)
   * [SAINT](https://sectools.org/tool/saint/)
   * [OWASO Nettracker](https://owasp.org/www-project-nettacker/)
   * [PentestGPT](https://pentestgpt.ai/)
@@ -94,6 +95,7 @@
   * [MISP Threat Sharing](https://www.misp-project.org/)
   * [ClamAV](https://www.clamav.net/)
   * [Any-Run](https://any.run/)
+  * [Tirreno](https://www.tirreno.com/)
 
 - **REVERSE ENGINEERING & DEBUGGING & FIDDLER**
   * [Fiddler](https://www.telerik.com/fiddler)
@@ -141,6 +143,8 @@
   - [Babel X](https://www.babelstreet.com/)
   - [OSINT GPT](https://github.com/estebanpdl/osintgpt)
   - [OSINT360](https://github.com/oryon-osint/OSINT360-GPT)
+  - [DCrawl](https://www.idcrawl.com/)
+  - [SherlockOSINT](https://sherlockosint.com/)
 
 - **DOCUMENTOS DE LISTAS DE FERRAMENTAS**
   * [Document for OSINT  Excellence](./FerramentasOSINT.pdf)

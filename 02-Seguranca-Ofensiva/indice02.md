@@ -16,17 +16,24 @@
   * [NMap Cheat Sheet](https://stationx-public-download.s3.us-west-2.amazonaws.com/nmap_cheet_sheet_v7.pdf)
   * [HPing Cheat Sheet](https://cyberwar.nl/d/cheatsheets/hping3_cheatsheet_v1.0-ENG.pdf)
 
+* **Vulnerabilidades**
+  * [NSE Scripts](https://nmap.org/nsedoc/)
+  * [Exploit Database](https://www.exploit-db.com/)
+]
+
 * **SSH Pentest**
   * [Paramiko para SSH Pentest](./paramiko-ssh.md)
 
 * **Proxy**
   * [Uso de TOR com Python Requests para Pentest](./tor-python.md)
 
-* **VMs Alvo para Estudos**
+* **VMs e Alvos para Estudos**
   * [Metasploitable2](https://docs.rapid7.com/metasploit/metasploitable-2-exploitability-guide/)
   * [Vulhub](https://www.vulnhub.com/)
   * [Vulhub Docker Images](https://hub.docker.com/u/vulhub)
   * [Kali CTF Blueprints - Criação de Máquinas Vulneráveis para testes](https://drive.google.com/file/d/1cqviXkmCYWBVxzQkvTEl-Y3XsiLwsmIa/view?usp=sharing)
+  * [Web Security Labs](https://labs.cai.do/)
+  * [Hacking Club](https://app.hackingclub.com/)
 
 
 * **OT**
