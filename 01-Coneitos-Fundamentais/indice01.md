@@ -79,6 +79,7 @@
   - [Vulnerabilidades HTTP-Web](./vulnerabilidades-http.md)
   - [Vulnerabilidades SMTP - Email](./vulnerabilidades-email.md)
   - [Guia - Tabela de Vulnerabilidades (CWE)](./CWE-Guidance.md)
+  - [OWASP Top 10](https://www.owasp.org/index.php/Top_10)
 
 - **Engenharia Social**
   - [Engenharia Social](./engenharia_social.md)
@@ -158,5 +159,5 @@
   - [Introdução o Hacker Ético - Etical Hacker Academy (IFRN)](https://www.eha.net.br/cursos/ieh/)
   - [Introduction to Cybersecurity - Cisco](https://skillsforall.com/)
   - [NSE 1 & NSE 2: Network Security Expert - Fortinet](https://training.fortinet.com/)
-  - [Networking in Google Cloud - Google / Coursera](https://www.coursera.org/specializations/networking-google-cloud-platform)
   - [Vários - TCM Security](https://academy.tcm-sec.com/)
+  - [Vários - Qualys Community ](https://www.qualys.com/training/)

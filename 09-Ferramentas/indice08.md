@@ -109,6 +109,7 @@
   * [ThreatFox](https://threatfox.abuse.ch/)
   * [YARAify](https://yaraify.abuse.ch/)
   * [Cyber-Sploit](https://github.com/Cyber-Dioxide/Cyber-Sploit)
+  * [CVE2CAPEC - CVE to MITRE ATT&CK Mapping](https://galeax.github.io/CVE2CAPEC/)
 
 - **AUDITORIA DE BANCO DE DADOS - WEB**
   - [DB Audit Free Edition](http://www.softtreetech.com)
