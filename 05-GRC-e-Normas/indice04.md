@@ -11,6 +11,7 @@
   * [CIS Control Community Defense Model](https://www.cisecurity.org/insights/white-papers/cis-community-defense-model-2-0)
   * [CIS Critical Security Controls v8.1 Mapping to NIST CSF 2.0](https://www.cisecurity.org/insights/white-papers/cis-controls-v8-1-mapping-to-nist-csf-2-0)
   * [NIST Cybersecurity Framework 2.0](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf)
+  * [NIST Risk Management Framework](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-37r2.pdf)
   * [RFC 3227 - Guidelines for Evidence Collection and Archiving](https://datatracker.ietf.org/doc/html/rfc3227)
 
 - **RFCs**
@@ -18,16 +19,19 @@
 
 - **Leis e Normativas Extrangeiras**
   * [Guia - Leis Essenciais de Cibersegurança Americanas](./guia-leis-eua.md)
-  * [2022 Florida Statutes - CHAPTER 815 - COMPUTER-RELATED CRIMES](https://www.flsenate.gov/Laws/Statutes/2022/Chapter815/All)
-  * [18 U.S.C. 1029 - Fraud and related activity in connection with access devices](https://www.govinfo.gov/app/details/USCODE-2023-title18/USCODE-2023-title18-partI-chap47-sec1029/summary)
-  * [18 U.S.C. 1030 - Fraud and related activity in connection with computers](https://www.govinfo.gov/app/details/USCODE-2023-title18/USCODE-2023-title18-partI-chap47-sec1030)
+  * [COMPUTER-RELATED CRIMES - 2022 Florida Statutes - CHAPTER 815](https://www.flsenate.gov/Laws/Statutes/2022/Chapter815/All)
+  * [Fraud and related activity in connection with access devices - 18 U.S.C. 1029](https://www.govinfo.gov/app/details/USCODE-2023-title18/USCODE-2023-title18-partI-chap47-sec1029/summary)
+  * [Fraud and related activity in connection with computers- 18 U.S.C. 1030](https://www.govinfo.gov/app/details/USCODE-2023-title18/USCODE-2023-title18-partI-chap47-sec1030)
   * [Internet Spyware (I-SPY) Prevention Act of 2007](https://www.congress.gov/bill/110th-congress/house-bill/1525/text)
   * [Privacy Act of 1974 - Emenda 2020](https://www.justice.gov/Overview_2020/dl?inline)
-  * [The Freedom of Information Act, 5 U.S.C. § 552](https://www.justice.gov/oip/freedom-information-act-5-usc-552)
+  * [The Freedom of Information Act - 5 U.S.C. § 552](https://www.justice.gov/oip/freedom-information-act-5-usc-552)
   * [USA PATRIOT Act](https://www.fincen.gov/resources/statutes-regulations/usa-patriot-act)
   * [Computer Fraud and Abuse Act](https://www.justice.gov/jm/jm-9-48000-computer-fraud)
   * [Electronic Communications Privacy Act of 1986 (ECPA)](https://bja.ojp.gov/program/it/privacy-civil-liberties/authorities/statutes/1285)
   * [Cyber Security Enhancement Act of 2002](https://www.congress.gov/bill/107th-congress/house-bill/3482/text)
+  * [GDPR - General Data Protection Regulation - EU](https://gdpr.eu.org/full/full.pdf)
+  * [PCI DSS - Padrão de segurança de dados da indústria de cartões de pagamento](https://assets-global.website-files.com/65e210a414fae2cb8054a995/65e210a414fae2cb8054aaac_Portuguese%20-%20Yuno%20-%20PCI%20DSS%20Compliance.pdf)
+  * [HIPAA - Health Insurance Portability and Accountability Act of 2007](https://www.hhs.gov/hipaa/for-professionals/privacy/index.html)
   
 - **Leis e Normativas Nacionais**
   * [Leis de Segurança da Informação](https://www.inf.ufsc.br/~bosco.sobral/ensino/ine5680/material-seg-redes/artigo-Leis-de-Seguranca.pdf)
