@@ -85,7 +85,7 @@
   * [Radare2/Cutter](https://cutter.re/)
   * [More RE](https://github.com/wtsxDev/reverse-engineering)
 
-- **SYSTEM MONITORING & MALWARE BEHAVIOR**
+- **SYSTEM MONITORING (SIEM), XDR & MALWARE BEHAVIOR**
   * [Process Hacker](https://processhacker.sourceforge.io/)
   * [Process Monitor](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon)
   * [ProcDot](http://www.procdot.com/)
@@ -96,6 +96,15 @@
   * [ClamAV](https://www.clamav.net/)
   * [Any-Run](https://any.run/)
   * [Tirreno](https://www.tirreno.com/)
+  * [Splunk](https://www.splunk.com/)
+  * [QRadar](https://www.ibm.com/products/qradar)
+  * [Security Onion](https://securityonionsolutions.com/software)
+  * [Microsoft Sentinel](https://learn.microsoft.com/pt-br/azure/sentinel/quickstart-onboard?tabs=defender-portal)
+  * [Googel SecOps](https://cloud.google.com/security/products/security-operations?hl=pt-br#the-intelligence-driven-and-ai-powered-security-operations-platform)
+  * [Securonix](https://www.securonix.com/)
+  * [Elastic Search](https://www.elastic.co/docs/solutions/security/get-started/get-started-detect-with-siem)
+  * [Gartner XDR Reviews and Ratings](https://www.gartner.com/reviews/market/extended-detection-and-response)
+  * [Gartner SIEM Reviews and Ratings](https://www.gartner.com/reviews/market/security-information-event-management)
 
 - **REVERSE ENGINEERING & DEBUGGING & FIDDLER**
   * [Fiddler](https://www.telerik.com/fiddler)
@@ -146,6 +155,10 @@
   - [OSINT360](https://github.com/oryon-osint/OSINT360-GPT)
   - [DCrawl](https://www.idcrawl.com/)
   - [SherlockOSINT](https://sherlockosint.com/)
+  - [TheHarvester](https://github.com/laramies/theHarvester)
+  - [DMitry](https://github.com/jaygreig86/dmitry/)
+  - [Email Crawler](https://github.com/nambili-samuel/Email-Crawler)
+  - [RapidAPI List](https://rapidapi.com/search/Cybersecurity?sortBy=ByRelevance)
 
 - **DOCUMENTOS DE LISTAS DE FERRAMENTAS**
   * [Document for OSINT  Excellence](./FerramentasOSINT.pdf)

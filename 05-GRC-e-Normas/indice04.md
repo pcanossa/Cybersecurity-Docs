@@ -4,18 +4,22 @@
   * [NICE Framework Mapping Tool](https://niccs.cisa.gov/tools/nice-framework-mapping-tool)
   * [CMMC Cybersecurity](https://www.federalregister.gov/documents/2024/10/15/2024-22905/cybersecurity-maturity-model-certification-cmmc-program)
   * [Lista CMMCs](https://dodcio.defense.gov/cmmc/Resources-Documentation/)
-  * [ISO 2700](https://drive.google.com/file/d/15tTY4jZl_YoYe37MjHwdGnFWceiy0H9L/view?usp=sharing)
+  * [ISO/IEC 27000](https://drive.google.com/file/d/15tTY4jZl_YoYe37MjHwdGnFWceiy0H9L/view?usp=sharing)
+  * [ISO/IEC 27001](https://drive.google.com/file/d/1xmpd_o45yDa4Q08g2nFRKXh0rPNrVcaU/view?usp=sharing)
+  * [ISO/IEC 27002](https://drive.google.com/file/d/1gXOfNdqtbnE7Jjxr8UvCUn9Z8_zzt3oS/view?usp=sharing)
+  * [ISO/IEC 27002 ABNT](https://drive.google.com/file/d/1HxsoA-ZO4djc1a9bXLn7Tw25D3rJIXg7/view?usp=sharing)
   * [Modelos para Desenvolvimento de Políticas de Segurança em Tecnologia da Informação](https://www.sans.org/information-security-policy)
   * [Guia de Escrita Técninca em Cybersegurança](https://www.sans.org/white-papers/492)
   * [Guia de Desenvolvimento de Políticas de Segurança em Tecnologia da Informação](https://www.sans.org/white-papers/492)
   * [CIS Control Community Defense Model](https://www.cisecurity.org/insights/white-papers/cis-community-defense-model-2-0)
   * [CIS Critical Security Controls v8.1 Mapping to NIST CSF 2.0](https://www.cisecurity.org/insights/white-papers/cis-controls-v8-1-mapping-to-nist-csf-2-0)
-  * [NIST Cybersecurity Framework 2.0](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf)
-  * [NIST Risk Management Framework](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-37r2.pdf)
-  * [RFC 3227 - Guidelines for Evidence Collection and Archiving](https://datatracker.ietf.org/doc/html/rfc3227)
-
+  * [NIST CSF - Cybersecurity Framework 2.0](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf)
+  * [NIST RMF - Risk Management Framework](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-37r2.pdf)
+  
 - **RFCs**
   * [Segurança na Arquitetura da Internet (RFC 1636)](https://datatracker.ietf.org/doc/html/rfc1636)
+  * [RFC 3227 - Guidelines for Evidence Collection and Archiving](https://datatracker.ietf.org/doc/html/rfc3227)
+
 
 - **Leis e Normativas Extrangeiras**
   * [Guia - Leis Essenciais de Cibersegurança Americanas](./guia-leis-eua.md)
@@ -30,7 +34,7 @@
   * [Electronic Communications Privacy Act of 1986 (ECPA)](https://bja.ojp.gov/program/it/privacy-civil-liberties/authorities/statutes/1285)
   * [Cyber Security Enhancement Act of 2002](https://www.congress.gov/bill/107th-congress/house-bill/3482/text)
   * [GDPR - General Data Protection Regulation - EU](https://gdpr.eu.org/full/full.pdf)
-  * [PCI DSS - Padrão de segurança de dados da indústria de cartões de pagamento](https://assets-global.website-files.com/65e210a414fae2cb8054a995/65e210a414fae2cb8054aaac_Portuguese%20-%20Yuno%20-%20PCI%20DSS%20Compliance.pdf)
+  * [PCI DSS - Padrão de segurança de dados da indústria de cartões de pagamento](https://listings.pcisecuritystandards.org/documents/PCI-DSS-v4_0-PT.pdf)
   * [HIPAA - Health Insurance Portability and Accountability Act of 2007](https://www.hhs.gov/hipaa/for-professionals/privacy/index.html)
   
 - **Leis e Normativas Nacionais**
