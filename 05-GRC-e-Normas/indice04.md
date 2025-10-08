@@ -12,9 +12,15 @@
   * [Guia de Escrita Técninca em Cybersegurança](https://www.sans.org/white-papers/492)
   * [Guia de Desenvolvimento de Políticas de Segurança em Tecnologia da Informação](https://www.sans.org/white-papers/492)
   * [CIS Control Community Defense Model](https://www.cisecurity.org/insights/white-papers/cis-community-defense-model-2-0)
-  * [CIS Critical Security Controls v8.1 Mapping to NIST CSF 2.0](https://www.cisecurity.org/insights/white-papers/cis-controls-v8-1-mapping-to-nist-csf-2-0)
+  * [CIS Critical Security Controls v8.1 Mapping to NIST CSF 2.0](https://www.cisecurity.org/insights/white-papers/cis-controls-v8-1-mapping-to-nist-csf-2-0),
   * [NIST CSF - Cybersecurity Framework 2.0](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf)
   * [NIST RMF - Risk Management Framework](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-37r2.pdf)
+  * [ISACA COBIT 5 - Control Objectives for Information and related Technology”](https://wiki.cefet-rj.br/attachments/article/2870/Cobit_5_pt-br.pdf)
+  * [OWASP Princípios de Segurança](./principios-owasp.md)
+  * [OWASP GenAI COMPASS Play Book](https://genai.owasp.org/resource/owasp-genai-security-project-threat-defense-compass-runbook/)
+  * [ OWASP Threat Defense COMPASS](https://genai.owasp.org/resource/owasp-genai-security-project-threat-defense-compass-1-0/)
+  * [NIST CSF Maturity Level Tool](https://www.kovrr.com/resources/free-nist-self-assessment-tool)
+  * [NIST Plano de Recuperação de Desastres](https://csrc.nist.gov/pubs/sp/800/50/final)
   
 - **RFCs**
   * [Segurança na Arquitetura da Internet (RFC 1636)](https://datatracker.ietf.org/doc/html/rfc1636)

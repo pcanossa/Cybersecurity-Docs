@@ -159,6 +159,8 @@
   - [DMitry](https://github.com/jaygreig86/dmitry/)
   - [Email Crawler](https://github.com/nambili-samuel/Email-Crawler)
   - [RapidAPI List](https://rapidapi.com/search/Cybersecurity?sortBy=ByRelevance)
+  - [Sherlock](https://github.com/sherlock-project/sherlock)
+  - [WhtasMyName](https://whatsmyname.app/)
 
 - **DOCUMENTOS DE LISTAS DE FERRAMENTAS**
   * [Document for OSINT  Excellence](./FerramentasOSINT.pdf)

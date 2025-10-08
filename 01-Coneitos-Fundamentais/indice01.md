@@ -17,6 +17,7 @@
   * [Guia de comandos para dispositivos de rede Cisco](https://drive.google.com/file/d/1Iz8GVILganH1deBeTfIcvccw4ZUGf1XU/view?usp=sharing)
   * [Network Basics](https://drive.google.com/file/d/1zRBCGLwhiqtnxTauENu7nW75FVJs6-t_/view?usp=sharing)
   * [Guia Tabela Endereçamento IP e Segmentação de Rede](./tabela-ips.md)
+  * [VLAN Guide](https://drive.google.com/file/d/1-r4Cv-OLy9qAVCWHAr2ByIySXp1cQwfw/view?usp=sharing)
 
 - **Shell**
   - [Canivete Suíço do Shell (Bash)](https://aurelio.net/shell/canivete/)
@@ -34,6 +35,8 @@
   * [Administração de Redes Linux](https://drive.google.com/file/d/15dPT-RUhxHsZJxK6RSz-svid2bHxBBKM/view?usp=sharing)
   * [The Linux Process Journey](https://drive.google.com/file/d/1jIrjljNDaeCgiB9yt2Mrn94XkcYlY8tj/view?usp=sharing)
   * [Linux Notes for Professionals](https://drive.google.com/file/d/1JLmU3brph33Cn_cpTZF4yes6bNfnbpcg/view?usp=sharing)
+  * [Linux Essentials for Cybersecurity](https://drive.google.com/file/d/1dl9KJuGQGCtfvu9ZXbMw3XjzamW7QPoS/view?usp=sharing)
+  * [Linux Errors Troubleshoot](https://drive.google.com/file/d/1g5oH-wJbR2b1LRnsBlfg9X-pJ00guXy6/view?usp=sharing)
   
 - **Windows**
 
@@ -67,6 +70,7 @@
   - [Framework MITRE ATT&CK](./framework-mitre-atteck.md)
   - [Framework Cyber Kill Chain](./framework-cyber-kill-chain.md)
   - [CVE - Common Vulnerabilities and Exposures](./cve.md)
+  - [Domínios de Segurança CISSP](./dominio-cissp.md)
 
 - **Vulnerabilidades**
   - [Vulnerabilidades de IP](./vulnerabilidades-ip.md)
@@ -163,3 +167,14 @@
   - [NSE 1 & NSE 2: Network Security Expert - Fortinet](https://training.fortinet.com/)
   - [Vários - TCM Security](https://academy.tcm-sec.com/)
   - [Vários - Qualys Community ](https://www.qualys.com/training/)
+  - [Exploring Adversarial Machine Learning - NVIDIA](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-DS-03+V1)
+  - [AI red teaming training series: securing generative AI systems - Microsoft](https://learn.microsoft.com/en-us/security/ai-red-team/training)
+  - [Red Team Training - Akamai](https://www.youtube.com/watch?v=Vdd4lRXB7zE)
+  - [Ethical Hacking - Swayam](https://onlinecourses.nptel.ac.in/noc25_cs142/preview)
+  - [Ethical Hacker - Cisco](https://onlinecourses.nptel.ac.in/noc25_cs142/preview)
+  - [Ethical Hacking with Open Source Tools - IBM](https://www.coursera.org/professional-certificates/ibm-ethical-hacking-with-open-source-tools)
+  - [Cybersecurity Essentials - EC-Council](https://www.edx.org/certificates/professional-certificate/ec-council-cybersecurity-essentials)
+  - [Penetration Tester Career Path - Cybrary](https://www.cybrary.it/career-path/penetration-tester)
+  - [Generative AI for Penetration Testing: Red Team - Coursera](https://www.coursera.org/learn/generative-ai-for-penetration-testing-red-team)
+  - [Certified Associate Penetration Tester - Hackviser](https://hackviser.com/capt)
+  - [Certified Web Security Expert - Hackviser](https://hackviser.com/cwse)

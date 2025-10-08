@@ -22,3 +22,8 @@
 * **Redes e Servidores**
   * [Perfilamento de Servidores](./perfilamento-servidores.md)
   * [Análise de Anomalia de Rede](./fluxo-anomalia-rede.md)
+
+* **SOC**
+  * [SOC Automation Lab Guide](https://drive.google.com/file/d/18cbnV2ZLlc0ePPWcrQQ_qTXllM3s-zcQ/view?usp=sharing) 
+  * [integration of Sysmon with Wazuh SIEM](https://drive.google.com/file/d/1ywiV4A3j7EQZTmk947TFi71L04NStzBw/view?usp=sharing)
+  * [IDs de Eventos em Windows de Importância](./ids-windows.md)
