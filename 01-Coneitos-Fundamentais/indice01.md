@@ -84,6 +84,8 @@
   - [Vulnerabilidades SMTP - Email](./vulnerabilidades-email.md)
   - [Guia - Tabela de Vulnerabilidades (CWE)](./CWE-Guidance.md)
   - [OWASP Top 10](https://www.owasp.org/index.php/Top_10)
+  - [Banco Nacional de Vulnerabilidades](https://bnvd.org/)
+  - [CVE Database](https://www.cve.org/)
 
 - **Engenharia Social**
   - [Engenharia Social](./engenharia_social.md)

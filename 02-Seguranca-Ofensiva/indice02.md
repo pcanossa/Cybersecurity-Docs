@@ -33,6 +33,11 @@
 * **Vulnerabilidades**
   * [NSE Scripts](https://nmap.org/nsedoc/)
   * [Exploit Database](https://www.exploit-db.com/)
+  * [Introdução ao Metasploit](https://www.exploit-db.com/docs/portuguese/15181-[portuguese]-introdu%C3%A7%C3%A3o-ao-metasploit.pdf)
+  * [Metasploit Cheatsheet](https://www.hackthebox.com/files/cheatsheet-using-the-metasploit-framework.pdf)
+  * [Manual Searchsploit](https://www.exploit-db.com/searchsploit)
+  * [Repositório ExploitDB](https://gitlab.com/exploit-database/exploitdb)
+  * [Exploit DB](https://www.exploit-db.com/)
 
 * **SSH Pentest**
   * [Paramiko para SSH Pentest](./paramiko-ssh.md)

@@ -84,6 +84,9 @@
   * [IDA Pro](https://hex-rays.com/ida-pro/)
   * [Radare2/Cutter](https://cutter.re/)
   * [More RE](https://github.com/wtsxDev/reverse-engineering)
+  * [Metasploit - Repositório](https://github.com/rapid7/metasploit-framework)
+  * [Metasploit](https://metasploit.com/)
+  * [ExploitDB](https://gitlab.com/exploit-database/exploitdb)
 
 - **SYSTEM MONITORING (SIEM), XDR & MALWARE BEHAVIOR**
   * [Process Hacker](https://processhacker.sourceforge.io/)
@@ -135,6 +138,7 @@
 
 - **OSINT**
   - [X-OSINT](https://github.com/TermuxHackz/X-osint)
+  - [IntelX](https://intelx.io/)
   - [BCHackTool](https://github.com/ByCh4n/BCHackTool)
   - [Infooze](https://infoooze.js.org/)
   - [VAST Viper](https://vipervast.sourceforge.net/)
@@ -144,10 +148,12 @@
   - [EPIEOS](https://epieos.com/)
   - [Sync.me](https://sync.me/)
   - [Hunter](https://hunter.io/bulk)
+  - [Hunter How](https://hunter.how/)
   - [Voila Norbert](https://app.voilanorbert.com/)
   - [GHunt](https://github.com/mxrch/GHunt)
   - [Archive.org](https://archive.org/)
   - [Rede CNPJ](https://www.redecnpj.com.br/demo/)
+  - [CNPJ SQLite](https://github.com/rictom/cnpj-sqlite)
   - [Spiderfoot](https://github.com/smicallef/spiderfoot)
   - [Shodan](https://www.shodan.io/)
   - [Babel X](https://www.babelstreet.com/)
@@ -161,6 +167,7 @@
   - [RapidAPI List](https://rapidapi.com/search/Cybersecurity?sortBy=ByRelevance)
   - [Sherlock](https://github.com/sherlock-project/sherlock)
   - [WhtasMyName](https://whatsmyname.app/)
+  - [Sherlockeye](https://www.sherlockeye.io/)
 
 - **DOCUMENTOS DE LISTAS DE FERRAMENTAS**
   * [Document for OSINT  Excellence](./FerramentasOSINT.pdf)
