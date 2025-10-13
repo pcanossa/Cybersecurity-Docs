@@ -168,6 +168,8 @@
   - [Sherlock](https://github.com/sherlock-project/sherlock)
   - [WhtasMyName](https://whatsmyname.app/)
   - [Sherlockeye](https://www.sherlockeye.io/)
+  - [Crawlee JS](https://crawlee.dev/js/docs/introduction/scraping)
+  - [Apify Scrapers](https://apify.com/)
 
 - **DOCUMENTOS DE LISTAS DE FERRAMENTAS**
   * [Document for OSINT  Excellence](./FerramentasOSINT.pdf)

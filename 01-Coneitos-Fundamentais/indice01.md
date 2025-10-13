@@ -159,6 +159,7 @@
   - [Glossário NIST](https://csrc.nist.gov/glossary)
   - [NTP BR](https://ntp.br/)
   - [Elastic Security Labs](https://www.elastic.co/security-labs)
+  - [InvestigaOSINT](https://investigaosint.com.br/)
   
 - **Cursos**
   - [Introduction to Linux - Linux Foundation](https://training.linuxfoundation.org/training/introduction-to-linux/)

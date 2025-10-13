@@ -27,3 +27,9 @@
   * [SOC Automation Lab Guide](https://drive.google.com/file/d/18cbnV2ZLlc0ePPWcrQQ_qTXllM3s-zcQ/view?usp=sharing) 
   * [integration of Sysmon with Wazuh SIEM](https://drive.google.com/file/d/1ywiV4A3j7EQZTmk947TFi71L04NStzBw/view?usp=sharing)
   * [IDs de Eventos em Windows de Importância](./ids-windows.md)
+
+* **Resposta à Incidentes**
+  * [Plano de Respostas à Incidentes - ACSC](https://www.cyber.gov.au/sites/default/files/2023-03/ACSC%20Cyber%20Incident%20Response%20Plan%20Guidance_A4.pdf)
+  * [Ransonware Playbook - CCCS](https://www.cyber.gc.ca/sites/default/files/cyber/2021-12/itsm00099-ransomware-playbook-2021-final3-en.pdf)
+  * [Modelos de Playbooks - SC3](https://www.gov.scot/publications/cyber-resilience-incident-management/)
+  * [Manuseio de vulnerabilidade e diretrizes relacionadas - JPCERT/CC](https://www.jpcert.or.jp/english/vh/guidelines.html)
