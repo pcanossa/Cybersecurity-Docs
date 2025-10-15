@@ -25,6 +25,7 @@
   * [Ipapi](https://ipapi.co/)
   * [httpbin](https://httpbin.org/ip)
   * [OUI Lookup - Wireshark](https://www.wireshark.org/tools/oui-lookup.html)
+  * [GFI LANguard](https://gfi.ai/products-and-solutions/network-security-solutions/languard)
 
 - **FILE & HASH & ANALYSIS & SANDBOX**
   * [FileSec](https://filesec.io/#)
@@ -57,6 +58,8 @@
   * [OWASO Nettracker](https://owasp.org/www-project-nettacker/)
   * [PentestGPT](https://pentestgpt.ai/)
   * [BughunterGPT](https://chatgpt.com/g/g-y2KnRe0w4-bug-hunter-gpt)
+  * [L0phtCrack](https://gitlab.com/l0phtcrack/l0phtcrack)
+  * [Sysinternal Suite](https://learn.microsoft.com/pt-br/sysinternals/downloads/sysinternals-suite)
 
 - **FILE HASH TOOLS**
   * [HashTools (Windows)](https://www.binaryfortress.com/HashTools/)
@@ -170,6 +173,10 @@
   - [Sherlockeye](https://www.sherlockeye.io/)
   - [Crawlee JS](https://crawlee.dev/js/docs/introduction/scraping)
   - [Apify Scrapers](https://apify.com/)
+  - [OSINT Discord Resources](https://github.com/Dutchosintguy/OSINT-Discord-resources)
+  - [User Search](https://www.usersearch.org/)
+  - [Guia Google Dorks](https://github.com/bob-reis/OSINT/blob/main/docs/Processos/Investigativos/google-dorks-guia-completo.md)
+  - [Rhino](https://osintisnotacrime.com/desktop)
 
 - **DOCUMENTOS DE LISTAS DE FERRAMENTAS**
   * [Document for OSINT  Excellence](./FerramentasOSINT.pdf)
@@ -177,6 +184,7 @@
   * [Free Tools For Cloud Enviroments](./cisa-free.pdf)
   * [OSINT Framework](https://osintframework.com/)
   * [Bug Bounty Tools](https://drive.google.com/file/d/1kGkmOpe2cPQdzIBX4qdC-XAAKzA1pzW6/view?usp=sharing)
+  * [OSINT Tools](https://start.me/p/7kxyy2/osint-tools-curated-by-lorand-bodo)
 
 - **PLATAFORMAS BUG BOUNTY**
   - [Bug Hunter](https://www.bughunt.com.br/)

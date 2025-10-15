@@ -37,6 +37,8 @@
   * [Linux Notes for Professionals](https://drive.google.com/file/d/1JLmU3brph33Cn_cpTZF4yes6bNfnbpcg/view?usp=sharing)
   * [Linux Essentials for Cybersecurity](https://drive.google.com/file/d/1dl9KJuGQGCtfvu9ZXbMw3XjzamW7QPoS/view?usp=sharing)
   * [Linux Errors Troubleshoot](https://drive.google.com/file/d/1g5oH-wJbR2b1LRnsBlfg9X-pJ00guXy6/view?usp=sharing)
+  * [DevOps Cheat Sheet](https://drive.google.com/file/d/1ct9JUJJVnq4voK2IJXrUwJ-6DR6973jx/view?usp=sharing)
+  * [Estrutura do Sistema de Arquivos Linux (FHS)](./fhs-linux.md)
   
 - **Windows**
 
@@ -109,6 +111,9 @@
   - [SNMP](./SNMP.md)
   - [Syslog](./syslog.md)
   - [VPN](./vpn.md)
+
+* **Programação**
+  * [Python for Cybersecurity](https://drive.google.com/file/d/1cDEH-QFj1kZYsl0J6ShISVM7PLV8RbGp/view?usp=sharing)
 
 - **Certificações**
   - [EXIN Cyber & IT Security Foundation](https://dam.exin.com/api/&request=asset.permadownload&id=376&type=this&token=57674ec538288c8b2a9af64caa402073)

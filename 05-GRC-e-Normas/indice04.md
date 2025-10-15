@@ -9,11 +9,13 @@
   * [ISO/IEC 27002](https://drive.google.com/file/d/1gXOfNdqtbnE7Jjxr8UvCUn9Z8_zzt3oS/view?usp=sharing)
   * [ISO/IEC 27002 ABNT](https://drive.google.com/file/d/1HxsoA-ZO4djc1a9bXLn7Tw25D3rJIXg7/view?usp=sharing)
   * [Modelos para Desenvolvimento de Políticas de Segurança em Tecnologia da Informação](https://www.sans.org/information-security-policy)
-  * [Guia de Escrita Técninca em Cybersegurança](https://www.sans.org/white-papers/492)
+  * [Guia de Escrita Técnica em Cybersegurança](https://www.sans.org/white-papers/492)
   * [Guia de Desenvolvimento de Políticas de Segurança em Tecnologia da Informação](https://www.sans.org/white-papers/492)
   * [CIS Control Community Defense Model](https://www.cisecurity.org/insights/white-papers/cis-community-defense-model-2-0)
   * [CIS Critical Security Controls v8.1 Mapping to NIST CSF 2.0](https://www.cisecurity.org/insights/white-papers/cis-controls-v8-1-mapping-to-nist-csf-2-0),
   * [NIST CSF - Cybersecurity Framework 2.0](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf)
+  * [Guia Didático NIST CSF - Cybersecurity Framework](./NIST-CSF.md)
+  * [Guia NIST CSF - Funções, Categorias e Exemplos](./nist-csf-categorias.md)
   * [NIST RMF - Risk Management Framework](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-37r2.pdf)
   * [ISACA COBIT 5 - Control Objectives for Information and related Technology”](https://wiki.cefet-rj.br/attachments/article/2870/Cobit_5_pt-br.pdf)
   * [OWASP Princípios de Segurança](./principios-owasp.md)
@@ -21,6 +23,8 @@
   * [ OWASP Threat Defense COMPASS](https://genai.owasp.org/resource/owasp-genai-security-project-threat-defense-compass-1-0/)
   * [NIST CSF Maturity Level Tool](https://www.kovrr.com/resources/free-nist-self-assessment-tool)
   * [NIST Plano de Recuperação de Desastres](https://csrc.nist.gov/pubs/sp/800/50/final)
+  * [NIST SP 800-63 - Digital Identity Guidelines](https://pages.nist.gov/800-63-3/)
+  * [NIST SP 800-63B - Authentication and Lifecycle Management](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-63b.pdf)
   
 - **RFCs**
   * [Segurança na Arquitetura da Internet (RFC 1636)](https://datatracker.ietf.org/doc/html/rfc1636)
@@ -41,6 +45,7 @@
   * [Cyber Security Enhancement Act of 2002](https://www.congress.gov/bill/107th-congress/house-bill/3482/text)
   * [GDPR - General Data Protection Regulation - EU](https://gdpr.eu.org/full/full.pdf)
   * [PCI DSS - Padrão de segurança de dados da indústria de cartões de pagamento](https://listings.pcisecuritystandards.org/documents/PCI-DSS-v4_0-PT.pdf)
+  * [Integração de Inteligência Artificial e PCI](https://drive.google.com/file/d/1L6dbRonfcN3Tu_zN-t8VbtaZcaXEp-yd/view?usp=sharing)
   * [HIPAA - Health Insurance Portability and Accountability Act of 2007](https://www.hhs.gov/hipaa/for-professionals/privacy/index.html)
   
 - **Leis e Normativas Nacionais**
