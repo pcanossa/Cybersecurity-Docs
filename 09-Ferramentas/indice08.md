@@ -185,6 +185,8 @@
   * [OSINT Framework](https://osintframework.com/)
   * [Bug Bounty Tools](https://drive.google.com/file/d/1kGkmOpe2cPQdzIBX4qdC-XAAKzA1pzW6/view?usp=sharing)
   * [OSINT Tools](https://start.me/p/7kxyy2/osint-tools-curated-by-lorand-bodo)
+  * [Awesome OSINT](https://github.com/jivoi/awesome-osint)
+  * [Awesome YARA](https://github.com/InQuest/awesome-yara)
 
 - **PLATAFORMAS BUG BOUNTY**
   - [Bug Hunter](https://www.bughunt.com.br/)

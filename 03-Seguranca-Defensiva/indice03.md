@@ -22,6 +22,11 @@
 * **Malwares**
   * [Investigação de Malware em Rede com Wireshark](./analise-hash-wireshark.md)
 
+* **Hardening**
+  * [Boas Práticas de Hardening em Endpoints](./boas-praticas-hardening.md)
+  * [Práticas Comuns de Hardening de EDR em Windows](./hardening-edr-win.md)
+  * [LOLBin](https://lolbas-project.github.io/)
+
 * **Redes e Servidores**
   * [Perfilamento de Servidores](./perfilamento-servidores.md)
   * [Análise de Anomalia de Rede](./fluxo-anomalia-rede.md)
@@ -41,3 +46,10 @@
   * [Modelos de Playbooks - SC3](https://www.gov.scot/publications/cyber-resilience-incident-management/)
   * [Manuseio de vulnerabilidade e diretrizes relacionadas - JPCERT/CC](https://www.jpcert.or.jp/english/vh/guidelines.html)
   * [NIST 800-61 - Computer Security Incident Handling Guide](https://www.nist.gov/publications/computer-security-incident-handling-guide)
+  * [NIST SP 800-61 Rev. 2 - Computer Security Incident Handling Guide](https://csrc.nist.gov/pubs/sp/800/61/r2/final)
+  * [NIST SP 800-61 Rev. 3 - Incident Response Recommendations and Considerations for Cybersecurity Risk Management](https://csrc.nist.gov/pubs/sp/800/61/r3/final)
+  * [Guia de Investigação Inicial de Incidente](./investigacao-inical.md)
+  * [Delienamento de Severidade e Extenção de um Incidente](./delineamento-severidade-incidente.md)
+  * [Documentação OpenIOC](https://github.com/fireeye/OpenIOC_1.1)
+  * [Documentação YARA](https://github.com/virustotal/yara)
+  

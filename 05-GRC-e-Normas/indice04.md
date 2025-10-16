@@ -25,6 +25,8 @@
   * [NIST Plano de Recuperação de Desastres](https://csrc.nist.gov/pubs/sp/800/50/final)
   * [NIST SP 800-63 - Digital Identity Guidelines](https://pages.nist.gov/800-63-3/)
   * [NIST SP 800-63B - Authentication and Lifecycle Management](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-63b.pdf)
+  * [NIST SP 800-61 Rev. 2 - Computer Security Incident Handling Guide](https://csrc.nist.gov/pubs/sp/800/61/r2/final)
+  * [NIST SP 800-61 Rev. 3 - Incident Response Recommendations and Considerations for Cybersecurity Risk Management](https://csrc.nist.gov/pubs/sp/800/61/r3/final)
   
 - **RFCs**
   * [Segurança na Arquitetura da Internet (RFC 1636)](https://datatracker.ietf.org/doc/html/rfc1636)
