@@ -52,4 +52,5 @@
   * [Delienamento de Severidade e Extenção de um Incidente](./delineamento-severidade-incidente.md)
   * [Documentação OpenIOC](https://github.com/fireeye/OpenIOC_1.1)
   * [Documentação YARA](https://github.com/virustotal/yara)
+  * [Crowsatrike Incident Response Tracker Template](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.crowdstrike.com%2Fwp-content%2Fuploads%2F2022%2F01%2FCrowdStrike-Incident-Response-Tracker-Template.xlsx&wdOrigin=BROWSELINK)
   

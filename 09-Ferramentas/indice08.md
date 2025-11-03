@@ -26,6 +26,12 @@
   * [httpbin](https://httpbin.org/ip)
   * [OUI Lookup - Wireshark](https://www.wireshark.org/tools/oui-lookup.html)
   * [GFI LANguard](https://gfi.ai/products-and-solutions/network-security-solutions/languard)
+  * [IPInfo](https://ipinfo.io//json) - > ``Inserir IP entre //``
+  * [Urlscan](https://urlscan.io/)
+  * [IVRE](https://ivre.rocks/)
+  * [SecurityTrails](https://securitytrails.com/)
+  * [PentestTools](https://pentest-tools.com/)
+  * [Censys](https://search.censys.io/)
 
 - **FILE & HASH & ANALYSIS & SANDBOX**
   * [FileSec](https://filesec.io/#)
@@ -142,7 +148,6 @@
 - **OSINT**
   - [X-OSINT](https://github.com/TermuxHackz/X-osint)
   - [IntelX](https://intelx.io/)
-  - [BCHackTool](https://github.com/ByCh4n/BCHackTool)
   - [Infooze](https://infoooze.js.org/)
   - [VAST Viper](https://vipervast.sourceforge.net/)
   - [WarVox](https://github.com/rapid7/warvox/)
@@ -155,7 +160,7 @@
   - [Voila Norbert](https://app.voilanorbert.com/)
   - [GHunt](https://github.com/mxrch/GHunt)
   - [Archive.org](https://archive.org/)
-  - [Rede CNPJ](https://www.redecnpj.com.br/demo/)
+  - [Rede CNPJ](https://github.com/rictom/rede-cnpj)
   - [CNPJ SQLite](https://github.com/rictom/cnpj-sqlite)
   - [Spiderfoot](https://github.com/smicallef/spiderfoot)
   - [Shodan](https://www.shodan.io/)
@@ -177,6 +182,9 @@
   - [User Search](https://www.usersearch.org/)
   - [Guia Google Dorks](https://github.com/bob-reis/OSINT/blob/main/docs/Processos/Investigativos/google-dorks-guia-completo.md)
   - [Rhino](https://osintisnotacrime.com/desktop)
+  - [Whoxy](https://www.whoxy.com/)
+  - [Zerobounce mail-validator](https://www.zerobounce.net/services/inbox-placement-test)
+  - [Certificate Search](https://crt.sh/)
 
 - **DOCUMENTOS DE LISTAS DE FERRAMENTAS**
   * [Document for OSINT  Excellence](./FerramentasOSINT.pdf)
@@ -187,6 +195,9 @@
   * [OSINT Tools](https://start.me/p/7kxyy2/osint-tools-curated-by-lorand-bodo)
   * [Awesome OSINT](https://github.com/jivoi/awesome-osint)
   * [Awesome YARA](https://github.com/InQuest/awesome-yara)
+  * [OSINT for BR](https://github.com/bob-reis/OSINT)
+  * [OSINT Brazuca](https://github.com/osintbrazuca/osint-brazuca)
+  * [PoC List](https://github.com/GhostTroops/TOP)
 
 - **PLATAFORMAS BUG BOUNTY**
   - [Bug Hunter](https://www.bughunt.com.br/)
