@@ -17,7 +17,7 @@
 
 - **Análise**
   - [Atribuição de Ataque](./atribuicao-ataque.md)
-  - [Joe sandbox](https://www.joesandbox.com/)
+  - [DFIR Tools](https://www.dfir.training/tools?category[0]=40&category_children=1&tag[0]=featured)
 
 - **Relatório**
 

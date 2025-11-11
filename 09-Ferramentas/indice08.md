@@ -132,11 +132,11 @@
   * [Cyber-Sploit](https://github.com/Cyber-Dioxide/Cyber-Sploit)
   * [CVE2CAPEC - CVE to MITRE ATT&CK Mapping](https://galeax.github.io/CVE2CAPEC/)
 
-- **AUDITORIA DE BANCO DE DADOS - WEB**
+- **AUDITORIA DE BANCO DE DADOS & WEB**
   - [DB Audit Free Edition](http://www.softtreetech.com)
   - [SQL Map](https://sqlmap.org/)
-  - [Wapiti](https://wapiti-scanner.github.io/)
   - [Cohesion](https://cohesion.sh/)
+  - [Wapiti](https://wapiti-scanner.github.io/)
 
 - **AVALIAÇÃO DE SEGURANÇA**
   * [Cyber Security Evaluation Tool (CSET) - CISA](./CSET.md) 

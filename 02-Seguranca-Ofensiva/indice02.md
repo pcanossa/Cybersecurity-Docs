@@ -25,6 +25,10 @@
 * **Reconhecimento**
   * [DNS](./dns.md)
   * [Maltego Handbook](https://www.maltego.com/blog/maltego-handbook-for-cyber-threat-intelligence/)
+  * [Guia OSINT](https://github.com/bob-reis/OSINT)
+  * [OSINT Resource for Dorks](https://drive.google.com/file/d/133FyKFzAMjQG8s4zKD_c7hKqyni5Fz8N/view?usp=sharing)
+  * [Knock Subdomain Scan](https://github.com/guelfoweb/knock)
+  * [Amass](https://github.com/owasp-amass/amass/wiki/User-Guide)
 
 * **Varredura**
   * [NMap Cheat Sheet](https://stationx-public-download.s3.us-west-2.amazonaws.com/nmap_cheet_sheet_v7.pdf)
@@ -42,8 +46,14 @@
 * **SSH Pentest**
   * [Paramiko para SSH Pentest](./paramiko-ssh.md)
 
-* **Proxy**
+* **Anonimatização**
   * [Uso de TOR com Python Requests para Pentest](./tor-python.md)
+  * [Mudar Geolocalização pelo Navegador](https://www.youtube.com/watch?v=BrwCwp5rd2Q)
+  * [Winscribe VPN](https://windscribe.com/)
+  * [Navegador TOR](https://www.torproject.org/download/)
+  * [Linux TAILS](https://tails.net/install/index.pt.html)
+  * [Linux Parrot](https://www.parrotsec.org/download/)
+  * [Proton VPN](https://protonvpn.com/pt-br/l/bf-vpn-offers-2025?url_id=0&utm_campaign=ww-all-2c-vpn-gro_aff-g_acq-partners_program&utm_source=aid-tune-1519&utm_medium=link&utm_term=vpn_home_plans_offer_hfp_landing&utm_content=26&phfp=true)
 
 * **VMs e Alvos para Estudos**
   * [Metasploitable2](https://docs.rapid7.com/metasploit/metasploitable-2-exploitability-guide/)
@@ -52,7 +62,6 @@
   * [Kali CTF Blueprints - Criação de Máquinas Vulneráveis para testes](https://drive.google.com/file/d/1cqviXkmCYWBVxzQkvTEl-Y3XsiLwsmIa/view?usp=sharing)
   * [Web Security Labs](https://labs.cai.do/)
   * [Hacking Club](https://app.hackingclub.com/)
-
 
 * **OT**
   * [Embedded Hacking](https://drive.google.com/file/d/1B9a_esTpVW3i-O8JtLH72tcHScbdZERR/view?usp=sharing)

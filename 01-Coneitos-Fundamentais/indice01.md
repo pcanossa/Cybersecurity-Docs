@@ -39,6 +39,7 @@
   * [Linux Errors Troubleshoot](https://drive.google.com/file/d/1g5oH-wJbR2b1LRnsBlfg9X-pJ00guXy6/view?usp=sharing)
   * [DevOps Cheat Sheet](https://drive.google.com/file/d/1ct9JUJJVnq4voK2IJXrUwJ-6DR6973jx/view?usp=sharing)
   * [Estrutura do Sistema de Arquivos Linux (FHS)](./fhs-linux.md)
+  * [Linux StackExchange](https://unix.stackexchange.com/)
   
 - **Windows**
 
@@ -165,6 +166,7 @@
   - [NTP BR](https://ntp.br/)
   - [Elastic Security Labs](https://www.elastic.co/security-labs)
   - [InvestigaOSINT](https://investigaosint.com.br/)
+  - [OUCH! Newsletter - Tenndências de engenharia social](https://www.sans.org/newsletters/ouch)
   
 - **Cursos**
   - [Introduction to Linux - Linux Foundation](https://training.linuxfoundation.org/training/introduction-to-linux/)
