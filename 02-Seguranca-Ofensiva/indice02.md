@@ -42,8 +42,6 @@
   * [Manual Searchsploit](https://www.exploit-db.com/searchsploit)
   * [Repositório ExploitDB](https://gitlab.com/exploit-database/exploitdb)
   * [Exploit DB](https://www.exploit-db.com/)
-
-* **SSH Pentest**
   * [Paramiko para SSH Pentest](./paramiko-ssh.md)
 
 * **Anonimatização**
@@ -55,13 +53,19 @@
   * [Linux Parrot](https://www.parrotsec.org/download/)
   * [Proton VPN](https://protonvpn.com/pt-br/l/bf-vpn-offers-2025?url_id=0&utm_campaign=ww-all-2c-vpn-gro_aff-g_acq-partners_program&utm_source=aid-tune-1519&utm_medium=link&utm_term=vpn_home_plans_offer_hfp_landing&utm_content=26&phfp=true)
 
-* **VMs e Alvos para Estudos**
+* **BugBounty**
+  * [Guia Básico de Exploração Bug Bounty](https://media.licdn.com/dms/document/media/v2/D561FAQGkx3W3ag2lXA/feedshare-document-pdf-analyzed/B56Zp3kYyZHQAY-/0/1762942628987?e=1763596800&v=beta&t=p_zdV6P5ZKUuHKbsOPOZi_mqknksHYVahaMR-w0m2x4)
+
+* **Laboratórios**
   * [Metasploitable2](https://docs.rapid7.com/metasploit/metasploitable-2-exploitability-guide/)
   * [Vulhub](https://www.sfdvulnhub.com/)
   * [Vulhub Docker Images](https://hub.docker.com/u/vulhub)
   * [Kali CTF Blueprints - Criação de Máquinas Vulneráveis para testes](https://drive.google.com/file/d/1cqviXkmCYWBVxzQkvTEl-Y3XsiLwsmIa/view?usp=sharing)
   * [Web Security Labs](https://labs.cai.do/)
   * [Hacking Club](https://app.hackingclub.com/)
+  * [HackTheBox](https://www.hackthebox.com/)
+  * [TryHackMe](https://tryhackme.com/)
+  * [HackThisSite](https://www.hackthissite.org/)
 
 * **OT**
   * [Embedded Hacking](https://drive.google.com/file/d/1B9a_esTpVW3i-O8JtLH72tcHScbdZERR/view?usp=sharing)

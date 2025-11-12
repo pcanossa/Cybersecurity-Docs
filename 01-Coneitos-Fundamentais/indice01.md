@@ -115,6 +115,8 @@
 
 * **Programação**
   * [Python for Cybersecurity](https://drive.google.com/file/d/1cDEH-QFj1kZYsl0J6ShISVM7PLV8RbGp/view?usp=sharing)
+  * [Bibliotecas Python para Segurança](https://medium.com/@Scofield_Idehen/best-python-libraries-for-cybersecurity-in-2024-037a870f39d1)
+  * [Personalização para Iniciantes](https://www.linkedin.com/pulse/building-custom-cybersecurity-tools-python-bi6if/)
 
 - **Certificações**
   - [EXIN Cyber & IT Security Foundation](https://dam.exin.com/api/&request=asset.permadownload&id=376&type=this&token=57674ec538288c8b2a9af64caa402073)
