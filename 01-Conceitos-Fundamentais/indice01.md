@@ -116,7 +116,7 @@
 * **Programação**
   * [Python for Cybersecurity](https://drive.google.com/file/d/1cDEH-QFj1kZYsl0J6ShISVM7PLV8RbGp/view?usp=sharing)
   * [Bibliotecas Python para Segurança](https://medium.com/@Scofield_Idehen/best-python-libraries-for-cybersecurity-in-2024-037a870f39d1)
-  * [Personalização para Iniciantes](https://www.linkedin.com/pulse/building-custom-cybersecurity-tools-python-bi6if/)
+  * [Personalização de Ferramentas para Iniciantes](https://www.linkedin.com/pulse/building-custom-cybersecurity-tools-python-bi6if/)
 
 - **Certificações**
   - [EXIN Cyber & IT Security Foundation](https://dam.exin.com/api/&request=asset.permadownload&id=376&type=this&token=57674ec538288c8b2a9af64caa402073)
@@ -144,7 +144,6 @@
   - [HackThisSite](https://www.hackthissite.org/)
   - [Vulhub Github](https://github.com/vulhub)
   - [Ben Wilson Blog - Criador Vulnhub](https://blog.g0tmi1k.com/)
-  - [Canal HackingLab](https://www.youtube.com/@Hackinglabrasil)
   - [Livros Dev](https://github.com/KAYOKG/BibliotecaDev/tree/main/LivrosDev)
   - [Free Real Cisco, PMI, ISACA, and other IT Certification Exam eBook](https://www.spotoexam.com/free-ebook-download-sns/?id=snschak)
   - [ExamLabs](https://www.exam-labs.com/)
@@ -169,6 +168,8 @@
   - [Elastic Security Labs](https://www.elastic.co/security-labs)
   - [InvestigaOSINT](https://investigaosint.com.br/)
   - [OUCH! Newsletter - Tenndências de engenharia social](https://www.sans.org/newsletters/ouch)
+  - [Krebs on Security](https://krebsonsecurity.com/)
+  - [CSO Online](https://www.csoonline.com/)
   
 - **Cursos**
   - [Introduction to Linux - Linux Foundation](https://training.linuxfoundation.org/training/introduction-to-linux/)
@@ -190,3 +191,6 @@
   - [Generative AI for Penetration Testing: Red Team - Coursera](https://www.coursera.org/learn/generative-ai-for-penetration-testing-red-team)
   - [Certified Associate Penetration Tester - Hackviser](https://hackviser.com/capt)
   - [Certified Web Security Expert - Hackviser](https://hackviser.com/cwse)
+  - [Canal HackingLab](https://www.youtube.com/@Hackinglabrasil)
+  - [Curso Pentest Profissional - Messias Eric](https://www.youtube.com/playlist?list=PLSVwmQp6yjLScayIE2lhHw1zYIFo2dIho)
+  - [Fundamentos de Perícia Digital - Messias Eric](https://www.youtube.com/playlist?list=PLSVwmQp6yjLSIzChVcFdKEKiBOcXYRhdh)

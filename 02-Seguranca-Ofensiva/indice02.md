@@ -7,6 +7,7 @@
   * [Metodologia OSSTMM - ISECOM](https://www.isecom.org/OSSTMM.3.pdf)
   * [Metodologia ISSAF - OISSG](https://kr-labs.com.ua/books/oissg-pentest.pdf)
   * [NIST Technical Guide to Information Security Testing and Assessment](https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-115.pdf)
+  * [The Hacker Playbook 3](https://media.licdn.com/dms/document/media/v2/D4D1FAQFLIyPJPCQz0Q/feedshare-document-pdf-analyzed/B4DZpg52HCGkAY-/0/1762562422508?e=1763596800&v=beta&t=2JdQLXb2xFtLl9VAt0NZtgt3uN-GcXUsBeyPxbgx6iI)
 
 * **Modelos de Relatórios Pentest**
   * [Modelo OffSec](https://www.offsec.com/reports/sample-penetration-testing-report.pdf)
@@ -66,9 +67,6 @@
   * [HackTheBox](https://www.hackthebox.com/)
   * [TryHackMe](https://tryhackme.com/)
   * [HackThisSite](https://www.hackthissite.org/)
-
-* **OT**
-  * [Embedded Hacking](https://drive.google.com/file/d/1B9a_esTpVW3i-O8JtLH72tcHScbdZERR/view?usp=sharing)
 
 * **Mobile**
   * [Hacking iOS Applications a detailed testing guide](https://drive.google.com/file/d/17vxAbAbAM-6T1mnedgirlqjH4EyFmXa3/view?usp=sharing)

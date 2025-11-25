@@ -11,3 +11,6 @@
 - **Relatório de Grupos**
     * [Scattered Spider - CISA](https://www.cisa.gov/sites/default/files/2025-08/aa23-320a-scattered-spider-508c.pdf)
     * [Análise Técnica do Grupo de Ameaça: Scattered Spider (AA23-320A)](./scattered-spider.md)
+
+- **Internos**
+    * [Slide Perito - Técnico](https://www.jusbrasil.com.br/artigos/a-nomeacao-do-perito/1789958041)
