@@ -147,6 +147,7 @@
 
 - **OSINT**
   - [X-OSINT](https://github.com/TermuxHackz/X-osint)
+  - [Ferramentas registro.br](https://registro.br/tecnologia/ferramentas/)
   - [IntelX](https://intelx.io/)
   - [Infooze](https://infoooze.js.org/)
   - [VAST Viper](https://vipervast.sourceforge.net/)
@@ -185,6 +186,21 @@
   - [Whoxy](https://www.whoxy.com/)
   - [Zerobounce mail-validator](https://www.zerobounce.net/services/inbox-placement-test)
   - [Certificate Search](https://crt.sh/)
+  - [SpyOnWeb](https://spyonweb.net/)
+  - [Built With](https://builtwith.com/)
+  - [OWASP Maryam](https://github.com/saeeddhqan/Maryam)
+  - [DNSRecon](https://github.com/darkoperator/dnsrecon)
+  - [Sublist3r](https://github.com/aboul3la/sublist3r)
+  - [Wappalyzer](https://www.wappalyzer.com/)
+  - [WAyback Machine](https://archive.org/)
+  - [OSINT Bay](https://osintbay.com/)
+  - [DeHashed](https://dehashed.com/)
+  - [WhoisXMLAPI](https://main.whoisxmlapi.com/)
+  - [That'sThem](https://thatsthem.com/)
+  - [UserSearch](https://usersearch.org/)
+  - [BOSINT](https://app.bosint.gg/)
+  - [Sr.Watson](https://srwatson.io/https://srwatson.io/)
+  - [KAP Online](https://kaponline.com.br/lp1/)
 
 - **DOCUMENTOS DE LISTAS DE FERRAMENTAS**
   * [Document for OSINT  Excellence](./FerramentasOSINT.pdf)

@@ -8,6 +8,8 @@
   * [Metodologia ISSAF - OISSG](https://kr-labs.com.ua/books/oissg-pentest.pdf)
   * [NIST Technical Guide to Information Security Testing and Assessment](https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-115.pdf)
   * [The Hacker Playbook 3](https://media.licdn.com/dms/document/media/v2/D4D1FAQFLIyPJPCQz0Q/feedshare-document-pdf-analyzed/B4DZpg52HCGkAY-/0/1762562422508?e=1763596800&v=beta&t=2JdQLXb2xFtLl9VAt0NZtgt3uN-GcXUsBeyPxbgx6iI)
+  * [Linux Basics for Hackers - OccupyTheWeb](https://media.licdn.com/dms/document/media/v2/D4E1FAQEq10pht8nviA/feedshare-document-url-metadata-scrapper-pdf/B4EZrAA56wKUA0-/0/1764158151541?e=1764774000&v=beta&t=Nn2QAgchoV72CBTU7JcZrXS_0_MCnzr3YvAtW6IXV7k)
+  * [Hacking	and	Securing	Web	Applications - Rassoul	Ghaznavi-zadeh](https://media.licdn.com/dms/document/media/v2/D561FAQFYrdgv_lorGg/feedshare-document-url-metadata-scrapper-pdf/B56ZrAkpHZJsA0-/0/1764167431101?e=1764774000&v=beta&t=HLRXU60eOp3s4Af8xpvM44LaI1rf2P7yWPLkRXvFpro)
 
 * **Modelos de Relatórios Pentest**
   * [Modelo OffSec](https://www.offsec.com/reports/sample-penetration-testing-report.pdf)

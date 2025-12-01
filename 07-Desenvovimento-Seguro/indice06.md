@@ -15,4 +15,4 @@
 
 - **Desenvolvimento WEB**
   * [Segurança Web: Técnicas para Programação Segura de Aplicações](https://www.inf.ufsc.br/~bosco.sobral/ensino/ine5680/material-seg-redes/AppSecBR2009_VAfonso_AGregio_PGeus.pdf)
-  * [Web Security for Developers](https://drive.google.com/file/d/1B9a_esTpVW3i-O8JtLH72tcHScbdZERR/view?usp=sharing)
+  * [Web Security for Developers - OccupyTheWeb](https://drive.google.com/file/d/1B9a_esTpVW3i-O8JtLH72tcHScbdZERR/view?usp=sharing)
