@@ -53,6 +53,7 @@
   * [SOC Automation Lab Guide](https://drive.google.com/file/d/18cbnV2ZLlc0ePPWcrQQ_qTXllM3s-zcQ/view?usp=sharing) 
   * [integration of Sysmon with Wazuh SIEM](https://drive.google.com/file/d/1ywiV4A3j7EQZTmk947TFi71L04NStzBw/view?usp=sharing)
   * [Wazuh](https://wazuh.com/)
+  * [Integração Wazuh com Powershell](https://media.licdn.com/dms/document/media/v2/D4D1FAQE1_izN2WcSDw/feedshare-document-pdf-analyzed/B4DZroeRPjKEAY-/0/1764836847352?e=1766016000&v=beta&t=2LM8VK28Goj3DoZa7SgDO3fc7S2dtX9tb80WIwzb8Q8)
   * [Instalação Wazhu em VM Ubuntu](https://github.com/AbdulRhmanAbdulGhaffar/Wazuh_Installation_Guide)
   * [Blue Team Tools](https://drive.google.com/file/d/1n_W6T_MUj6IcN8V8spiLt_qFRHmqoXZI/view?usp=sharing)
   * [Laboratório SIEM CyberBlue](https://github.com/cyberblu3s/CyberBlue)
@@ -91,6 +92,7 @@
   * [Auto Reputation - Automação de Análise de IP e Domínio com IA](https://github.com/pcanossa/Auto_Reputation)
   * [Threat Hunting com Suricata](https://www.youtube.com/watch?v=kaDGolhTu94)
   * [MISP Threat Sharing](https://www.misp-project.org/)
+  * [Flowsint](https://www.flowsint.io/)
 
 * **Resposta à Incidentes**
   * [Plano de Respostas à Incidentes - ACSC](https://www.cyber.gov.au/sites/default/files/2023-03/ACSC%20Cyber%20Incident%20Response%20Plan%20Guidance_A4.pdf)

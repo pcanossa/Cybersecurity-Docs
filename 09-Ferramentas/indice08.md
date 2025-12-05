@@ -201,6 +201,7 @@
   - [BOSINT](https://app.bosint.gg/)
   - [Sr.Watson](https://srwatson.io/https://srwatson.io/)
   - [KAP Online](https://kaponline.com.br/lp1/)
+  - [ViewDNS](https://viewdns.info/)
 
 - **DOCUMENTOS DE LISTAS DE FERRAMENTAS**
   * [Document for OSINT  Excellence](./FerramentasOSINT.pdf)
@@ -213,6 +214,7 @@
   * [Awesome YARA](https://github.com/InQuest/awesome-yara)
   * [OSINT for BR](https://github.com/bob-reis/OSINT)
   * [OSINT Brazuca](https://github.com/osintbrazuca/osint-brazuca)
+  * [K2Osint](https://github.com/K2SOsint/Legendary_OSINT)
   * [PoC List](https://github.com/GhostTroops/TOP)
 
 - **PLATAFORMAS BUG BOUNTY**

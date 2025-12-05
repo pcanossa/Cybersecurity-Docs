@@ -12,13 +12,13 @@ Nossa missão é desmistificar conceitos complexos e fornecer guias práticos, a
 
 Para manter a organização, os artigos estão divididos em diretórios temáticos. A estrutura inicial sugerida é:
 
-- **[01-Conceitos-Fundamentais/](/01-Coneitos-Fundamentais/indice01.md/)**
+- **[01-Conceitos-Fundamentais/](/01-Conceitos-Fundamentais/indice01.md/)**
   - *Redes, Sistemas Operacionais, Criptografia...*
 - **[02-Seguranca-Ofensiva/](/02-Seguranca-Ofensiva/indice02.md)**
   - *Pentest, Red Teaming, Análise de Malware...*
 - **[03-Seguranca-Defensiva/](/03-Seguranca-Defensiva/indice03.md)**
   - *Blue Teaming, SOC, Análise de Logs, SIEM...*
-- **[04-Analise-Forense/](/04-ANalise-Forense/indice04.md)**
+- **[04-Analise-Forense/](/04-Analise-Forense/indice04.md)**
   - *Coleta Forense, Análise Forense, Ferramentas Forenses...*
 - **[05-GRC-Normas-Frameworks/](/05-GRC-e-Normas/indice04.md)**
   - *Governança, Risco, Compliance, LGPD, ISO 27001...*
