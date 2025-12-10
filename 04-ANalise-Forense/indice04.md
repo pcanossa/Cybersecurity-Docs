@@ -33,8 +33,14 @@
   - [Coleta de Evidências Digitais Segundo a RFC 3227](./coleta-evidencia.md)
   - [Cadeia de Custódia](./cadeia-custodia.md)
   - [Guia Coleta Básica de Informações Pós-Incidente](./coleta-basica.md)
+  - [Regshot](https://github.com/Seabreg/Regshot)
+  - [Apate DNS](https://fireeye.market/apps/211380)
 
 - **Análise**
   - [Atribuição de Ataque](./atribuicao-ataque.md)
   - [DFIR Tools](https://www.dfir.training/tools?category[0]=40&category_children=1&tag[0]=featured)
+  * [Joe sandbox](https://www.joesandbox.com/)
+  * [Any.Run](https://any.run/)
+  * [Cuckoo Sandbox](https://cuckoo.cert.ee/)
+  * [Hybrid Analysis](https://hybrid-analysis.com/)
 

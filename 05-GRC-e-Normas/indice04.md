@@ -12,7 +12,9 @@
   * [Guia de Escrita Técnica em Cybersegurança](https://www.sans.org/white-papers/492)
   * [Guia de Desenvolvimento de Políticas de Segurança em Tecnologia da Informação](https://www.sans.org/white-papers/492)
   * [CIS Control Community Defense Model](https://www.cisecurity.org/insights/white-papers/cis-community-defense-model-2-0)
-  * [CIS Critical Security Controls v8.1 Mapping to NIST CSF 2.0](https://www.cisecurity.org/insights/white-papers/cis-controls-v8-1-mapping-to-nist-csf-2-0),
+  * [CIS Critical Security Controls v8.1 Mapping to NIST CSF 2.0](https://www.cisecurity.org/insights/white-papers/cis-controls-v8-1-mapping-to-nist-csf-2-0)
+  * [CIS Critical Security Controls Version 8.1](https://www.cisecurity.org/controls/v8-1)
+  * [CIS Benchmarks List](https://www.cisecurity.org/cis-benchmarks)
   * [NIST CSF - Cybersecurity Framework 2.0](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf)
   * [Guia Didático NIST CSF - Cybersecurity Framework](./NIST-CSF.md)
   * [Guia NIST CSF - Funções, Categorias e Exemplos](./nist-csf-categorias.md)

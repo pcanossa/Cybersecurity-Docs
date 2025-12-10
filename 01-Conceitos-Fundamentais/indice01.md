@@ -172,6 +172,7 @@
   - [CSO Online](https://www.csoonline.com/)
   
 - **Cursos**
+  - [Cybersecutity Roadmap](https://roadmap.sh/cyber-security)
   - [Introduction to Linux - Linux Foundation](https://training.linuxfoundation.org/training/introduction-to-linux/)
   - [Programa Hackers do Bem](https://hackersdobem.org.br/)
   - [Trilha Cybersecurity - Networking Academy Cisco](https://www.netacad.com/catalogs/learn/cybersecurity)

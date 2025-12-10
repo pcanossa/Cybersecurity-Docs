@@ -202,6 +202,7 @@
   - [Sr.Watson](https://srwatson.io/https://srwatson.io/)
   - [KAP Online](https://kaponline.com.br/lp1/)
   - [ViewDNS](https://viewdns.info/)
+  - [Ubikron](https://www.ubikron.com/)
 
 - **DOCUMENTOS DE LISTAS DE FERRAMENTAS**
   * [Document for OSINT  Excellence](./FerramentasOSINT.pdf)

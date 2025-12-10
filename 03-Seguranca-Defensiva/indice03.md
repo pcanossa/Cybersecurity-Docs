@@ -70,6 +70,9 @@
   * [ATT&CK Navigator](https://github.com/mitre-attack/attack-navigator)
   * [Syslog Protocol RFC](https://www.rfc-editor.org/rfc/rfc5424)
   * [Timestamp RFC](https://www.rfc-editor.org/rfc/rfc3339)
+  * [Procmon](https://learn.microsoft.com/pt-br/sysinternals/downloads/procmon)
+  * [Procexp](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer)
+  * [Análise de Registros Importantes do Windows](./registro-windows.md)
 
 * **Threat Hunting / Intelligence**
   * [IntelTechniques](https://inteltechniques.com/)
@@ -93,6 +96,11 @@
   * [Threat Hunting com Suricata](https://www.youtube.com/watch?v=kaDGolhTu94)
   * [MISP Threat Sharing](https://www.misp-project.org/)
   * [Flowsint](https://www.flowsint.io/)
+  * [Joe sandbox](https://www.joesandbox.com/)
+  * [Any.Run](https://any.run/)
+  * [Cuckoo Sandbox](https://cuckoo.cert.ee/)
+  * [Hybrid Analysis](https://hybrid-analysis.com/)
+  * [Data Breach Investigations Report - Verizon](https://www.verizon.com/business/resources/reports/dbir/?msockid=0d9ffd98ac286ecb0991eb2aad3c6ff5)
 
 * **Resposta à Incidentes**
   * [Plano de Respostas à Incidentes - ACSC](https://www.cyber.gov.au/sites/default/files/2023-03/ACSC%20Cyber%20Incident%20Response%20Plan%20Guidance_A4.pdf)
@@ -108,4 +116,5 @@
   * [Documentação YARA](https://github.com/virustotal/yara)
   * [Crowdstrike Incident Response Tracker Template](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.crowdstrike.com%2Fwp-content%2Fuploads%2F2022%2F01%2FCrowdStrike-Incident-Response-Tracker-Template.xlsx&wdOrigin=BROWSELINK)
   * [SOC Incident Response Playbook](https://drive.google.com/file/d/1tcPCKfELPRLzT0_jhzzagV_ATAYwar7h/view?usp=sharing)
+  * [VERIS](https://verisframework.org/)
   
