@@ -33,8 +33,13 @@
   - [Coleta de Evidências Digitais Segundo a RFC 3227](./coleta-evidencia.md)
   - [Cadeia de Custódia](./cadeia-custodia.md)
   - [Guia Coleta Básica de Informações Pós-Incidente](./coleta-basica.md)
+  - [Extração e Análise de Dados em Memória na Perícia Forense Computacional](http://www.icofcs.org/2009/ICoFCS2009-PP03.pdf)
   - [Regshot](https://github.com/Seabreg/Regshot)
   - [Apate DNS](https://fireeye.market/apps/211380)
+  - [LiME](https://github.com/504ensicsLabs/LiME)
+  - [DumpIt for Windows](https://www.magnetforensics.com/resources/magnet-dumpit-for-windows/)
+  - [LibPcap](https://github.com/the-tcpdump-group/libpcap)
+  - [Tcpdump](https://www.tcpdump.org/)
 
 - **Análise**
   - [Atribuição de Ataque](./atribuicao-ataque.md)
@@ -43,4 +48,7 @@
   * [Any.Run](https://any.run/)
   * [Cuckoo Sandbox](https://cuckoo.cert.ee/)
   * [Hybrid Analysis](https://hybrid-analysis.com/)
+  * [ForensicTools](https://github.com/mesquidar/ForensicsTools)
+  * [AvillaForensics](https://github.com/AvillaDaniel/AvillaForensics)
+  * [Windoes Forensics](https://media.licdn.com/dms/document/media/v2/D4E1FAQG8MoIp4TzQ6g/feedshare-document-pdf-analyzed/B4EZsHiYgPHgAY-/0/1765358015780?e=1766016000&v=beta&t=kY287zxGf2i_0uYQnHIBPpx6UCfwPIHMt4-U76jg4nY)
 

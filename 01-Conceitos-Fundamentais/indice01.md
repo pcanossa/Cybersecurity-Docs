@@ -173,6 +173,7 @@
   - [OUCH! Newsletter - Tenndências de engenharia social](https://www.sans.org/newsletters/ouch)
   - [Krebs on Security](https://krebsonsecurity.com/)
   - [CSO Online](https://www.csoonline.com/)
+  - [Darkfeed.io](https://darkfeed.io/)
   
 - **Cursos**
   - [Cybersecutity Roadmap](https://roadmap.sh/cyber-security)
@@ -198,3 +199,5 @@
   - [Canal HackingLab](https://www.youtube.com/@Hackinglabrasil)
   - [Curso Pentest Profissional - Messias Eric](https://www.youtube.com/playlist?list=PLSVwmQp6yjLScayIE2lhHw1zYIFo2dIho)
   - [Fundamentos de Perícia Digital - Messias Eric](https://www.youtube.com/playlist?list=PLSVwmQp6yjLSIzChVcFdKEKiBOcXYRhdh)
+  - [Perícia Forense Computacional - Ricwrdo Kléber](https://youtu.be/UwrOnGsghPw?si=A1e0H4gvPKuQE3jn)
+  - [Mente Binária (Vários Cursos)](https://www.mentebinaria.com.br/)

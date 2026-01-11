@@ -131,6 +131,10 @@
   * [YARAify](https://yaraify.abuse.ch/)
   * [Cyber-Sploit](https://github.com/Cyber-Dioxide/Cyber-Sploit)
   * [CVE2CAPEC - CVE to MITRE ATT&CK Mapping](https://galeax.github.io/CVE2CAPEC/)
+  * [Joe sandbox](https://www.joesandbox.com/)
+  * [Any.Run](https://any.run/)
+  * [Cuckoo Sandbox](https://cuckoo.cert.ee/)
+  * [Hybrid Analysis](https://hybrid-analysis.com/)
 
 - **AUDITORIA DE BANCO DE DADOS & WEB**
   - [DB Audit Free Edition](http://www.softtreetech.com)
@@ -203,6 +207,18 @@
   - [KAP Online](https://kaponline.com.br/lp1/)
   - [ViewDNS](https://viewdns.info/)
   - [Ubikron](https://www.ubikron.com/)
+  - [ZoomEye](https://www.zoomeye.ai/)
+  - [Maigret](https://github.com/soxoj/maigret)
+  - [Mr. Holmes](https://github.com/Lucksi/Mr.Holmes)
+  - [holehe](https://github.com/megadose/holehe)
+  - [Tesari AI](https://tesari.ai/)
+  - [Eoscket Reach](https://rocketreach.co/)
+  - [Wigle](https://wigle.net/)
+  - [Web Check](https://github.com/Lissy93/web-check)
+  - [CompleteDNS](https://completedns.com/)
+  - [Passivetotal](https://github.com/passivetotal/python_api)
+  - [DNSDumpster](https://dnsdumpster.com/)
+  - [HackerTarget](https://hackertarget.com/)
 
 - **DOCUMENTOS DE LISTAS DE FERRAMENTAS**
   * [Document for OSINT  Excellence](./FerramentasOSINT.pdf)

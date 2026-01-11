@@ -26,6 +26,7 @@
   * [Práticas Comuns de Hardening de EDR em Windows](./hardening-edr-win.md)
   * [LOLBin](https://lolbas-project.github.io/)
   * [Atualização de Patches](https://www.cisa.gov/news-events/news/understanding-patches-and-software-updates)
+  * [DevSec Hardening Framework](https://github.com/dev-sec)
 
 * **AAA Framework / IAM**
   * [IDPro](https://idpro.org/)
@@ -68,11 +69,13 @@
   * [Cuckoo Sandbox](https://cuckoo.cert.ee/)
   * [Hybrid Analysis](https://hybrid-analysis.com/)
   * [ATT&CK Navigator](https://github.com/mitre-attack/attack-navigator)
+  * [MITRE ATT&CK Framework](https://attack.mitre.org/)
   * [Syslog Protocol RFC](https://www.rfc-editor.org/rfc/rfc5424)
   * [Timestamp RFC](https://www.rfc-editor.org/rfc/rfc3339)
   * [Procmon](https://learn.microsoft.com/pt-br/sysinternals/downloads/procmon)
   * [Procexp](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer)
   * [Análise de Registros Importantes do Windows](./registro-windows.md)
+  * [Cyber Kill Chain - Lockheed Martin](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)
 
 * **Threat Hunting / Intelligence**
   * [IntelTechniques](https://inteltechniques.com/)
@@ -101,6 +104,9 @@
   * [Cuckoo Sandbox](https://cuckoo.cert.ee/)
   * [Hybrid Analysis](https://hybrid-analysis.com/)
   * [Data Breach Investigations Report - Verizon](https://www.verizon.com/business/resources/reports/dbir/?msockid=0d9ffd98ac286ecb0991eb2aad3c6ff5)
+  * [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence)
+  * [APT & Cybercriminals Campaign Collection](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections)
+
 
 * **Resposta à Incidentes**
   * [Plano de Respostas à Incidentes - ACSC](https://www.cyber.gov.au/sites/default/files/2023-03/ACSC%20Cyber%20Incident%20Response%20Plan%20Guidance_A4.pdf)
